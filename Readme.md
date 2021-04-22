@@ -8,6 +8,7 @@
 	- Tartines de compoté de figues
 	- Boeuf bourguignon like
 	- Burrata
+-  Pâtes sauce aux champignons et aux poireaux
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA4ODA5NjldfQ==
+eyJoaXN0b3J5IjpbLTgwOTA5NzMyOCwzMDg4MDk2OV19
 -->
