@@ -3,7 +3,7 @@
 
 ## Faites
 ### Entrées
-
+- [Foie Gras au porto façon Papy](/Foie%20gras%20au%20porto%20fa%C3%A7on%20Papy)
 
 ### Plats principaux
 - Courge spaghetti carbonara
@@ -20,6 +20,6 @@
 -  [Pâtes sauce aux champignons et aux poireaux](https://youtu.be/H6r65SHkpVs?t=507) 🥕
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1MjAxMjk3LDE4MzI1MTM3MDUsLTE4ND
-I4NDY4NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbLTE2NTM1OTIwNDgsMTgzMjUxMzcwNSwtMT
+g0Mjg0Njg3LDMwODgwOTY5XX0=
 -->
