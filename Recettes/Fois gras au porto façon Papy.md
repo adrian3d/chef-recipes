@@ -28,8 +28,6 @@
 -   Manger au bout de 3-4 jours histoire de faire vieillir un peu.
 -   Sortir délicatement du micro-onde
 
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4NTc3MDM3XX0=
+eyJoaXN0b3J5IjpbLTk5Mjg5OTQ5XX0=
 -->
