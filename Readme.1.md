@@ -3,10 +3,10 @@
 ## Faites
 
 ## À faire
-- Repas italien
+- [Repas italien](https://www.youtube.com/watch?v=l5F9WfVRluM)
 	- Tartines de compoté de figues
 	-  Boeuf bourguignon like
 	- Burrata
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM1ODA1NDAzXX0=
+eyJoaXN0b3J5IjpbLTgyMDY3OTk1M119
 -->
