@@ -1,5 +1,5 @@
 
-# Tartelettes fraises-citrons
+# Tartelettes fraises-citron
 
 Peut être fait en tartelettes individuelles.
 
@@ -48,5 +48,5 @@ S'en référer à une recette sur internet (je vais pas tout faire, merde) et fa
 
 C'est fini !
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1ODE3NTgxNl19
+eyJoaXN0b3J5IjpbLTYyNjQyOTg4M119
 -->
