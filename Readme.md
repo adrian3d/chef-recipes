@@ -15,7 +15,7 @@
 - [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot:
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
-- [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx)
+- [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx) :carrot:
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
 - [Lasagnes végétarienne](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
@@ -54,7 +54,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjQ1NzI3Niw3NDM2ODcyNjUsLTM3MD
+eyJoaXN0b3J5IjpbMTgwMjUxNjUzOSw3NDM2ODcyNjUsLTM3MD
 E1NDg0MywxMDA2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMx
 LDE4MzI1MTM3MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
 -->
