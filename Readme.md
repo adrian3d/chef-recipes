@@ -38,8 +38,12 @@
 - [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/) :carrot:
 - [Galettes courgette et jambon](https://magazine.laruchequiditoui.fr/legumologie/pique-nique-galettes-courgettes/)
 - [Galettes de courge spaghetti](https://www.ptitchef.com/recettes/entree/galettes-de-courge-spaghetti-aux-oignons-et-fromage-fid-553177)
+
+## Guides
+- [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
+- []
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNTEyMTAzMCwxMDA2NTc2NzE1LDE4Nz
-EwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4
-NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbLTE1MzI2NTgxOTYsMTAwNjU3NjcxNSwxOD
+cxMDgyODM5LDc2MjU3ODUzMSwxODMyNTEzNzA1LC0xODQyODQ2
+ODcsMzA4ODA5NjldfQ==
 -->
