@@ -8,6 +8,7 @@
 - [Soupe à la sucrine du Berry](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Soupe%20%C3%A0%20la%20sucrine%20du%20Berry.md) :carrot:
 
 ### Plats principaux
+- [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/)
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
 - [Croûtons maison à l'ail et aux herbes de provence](https://dubiodansmonbento.com/croutons-maison-a-lail-et-aux-herbes-de-provence/)
@@ -58,7 +59,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNzcwNTA4NCwxNzU5NjU4ODk4LDc0Mz
+eyJoaXN0b3J5IjpbMTIxNTI4MDU3NSwxNzU5NjU4ODk4LDc0Mz
 Y4NzI2NSwtMzcwMTU0ODQzLDEwMDY1NzY3MTUsMTg3MTA4Mjgz
 OSw3NjI1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwOD
 gwOTY5XX0=
