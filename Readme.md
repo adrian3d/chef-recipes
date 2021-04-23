@@ -27,7 +27,7 @@
 - [Oeufs mayonnaise - la recette de Gwilherm de Cerval](https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/06/l-uf-mayonnaise-la-recette-de-gwilherm-de-cerval_6032062_5324493.html) :carrot:
 - [Pâtes au citron](https://prettysimplesweet.com/lemon-cilantro-pasta/) :carrot: :gb:
 - [Pâtes au saumon](https://youtu.be/z8Yrwb-05Uc)
-- [Pâte carbonara](https://youtu.be/99mmYGh7cZ8?t=282)
+- [Pâte carbonara traditionnelle](https://youtu.be/99mmYGh7cZ8?t=282)
 - [Pesto de coriandre](https://www.taste.com.au/recipes/coriander-pesto/775c1052-59c9-4121-b605-3f14335747fd) :carrot: :gb:
 - [Pesto de fanes de radis](https://www.marmiton.org/recettes/recette_pesto-aux-fanes-de-radis_309981.aspx) :carrot:
 - [Pesto de pistaches](https://www.youtube.com/watch?v=pR21oXmG3eI) :carrot: (facilement adaptable en végé)
@@ -67,7 +67,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5MTE1MTQxLC04MDc3MDk5MDQsMjU1Mz
+eyJoaXN0b3J5IjpbMzQzMDAyNTg1LC04MDc3MDk5MDQsMjU1Mz
 I4NTEyLDE3NTk2NTg4OTgsNzQzNjg3MjY1LC0zNzAxNTQ4NDMs
 MTAwNjU3NjcxNSwxODcxMDgyODM5LDc2MjU3ODUzMSwxODMyNT
 EzNzA1LC0xODQyODQ2ODcsMzA4ODA5NjldfQ==
