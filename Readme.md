@@ -9,6 +9,7 @@
 - [Salade de choux rouge](https://www.youtube.com/watch?v=r3Gd2CNBmxk&list=PLTuTOLdBdcWEYV0Lo_UtOZVg3x-7Cd2FP&index=12) :carrot:
 
 ### Plats principaux
+- [Blanquette végétarienne](https://www.youtube.com/watch?v=gMnfNY_9kiw)
 - [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/) :carrot:
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
@@ -65,7 +66,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODc4NDQ1ODksLTgwNzcwOTkwNCwyNT
+eyJoaXN0b3J5IjpbLTEzMzkyMTIzNjEsLTgwNzcwOTkwNCwyNT
 UzMjg1MTIsMTc1OTY1ODg5OCw3NDM2ODcyNjUsLTM3MDE1NDg0
 MywxMDA2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4Mz
 I1MTM3MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
