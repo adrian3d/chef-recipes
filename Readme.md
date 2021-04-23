@@ -11,10 +11,10 @@
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
 - [Croûtons maison à l'ail et aux herbes de provence](https://dubiodansmonbento.com/croutons-maison-a-lail-et-aux-herbes-de-provence/)
-- [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
-- [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot:
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
+- [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
+- [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot:
 - [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx) :carrot:
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
 - [Lasagnes végétarienne](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
@@ -56,8 +56,8 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDgyMDI1MTUsMTc1OTY1ODg5OCw3ND
-M2ODcyNjUsLTM3MDE1NDg0MywxMDA2NTc2NzE1LDE4NzEwODI4
-MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4NywzMD
-g4MDk2OV19
+eyJoaXN0b3J5IjpbLTM0NTkzMTM4NywxNzU5NjU4ODk4LDc0Mz
+Y4NzI2NSwtMzcwMTU0ODQzLDEwMDY1NzY3MTUsMTg3MTA4Mjgz
+OSw3NjI1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwOD
+gwOTY5XX0=
 -->
