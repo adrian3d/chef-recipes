@@ -34,8 +34,9 @@
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
 - [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/)
 - [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/)
+- [Galettes courgette et jambon](https://magazine.laruchequiditoui.fr/legumologie/pique-nique-galettes-courgettes/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzOTM1NzA3NSwxMDA2NTc2NzE1LDE4Nz
-EwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4
-NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbMTEzMDI1OTU3LDEwMDY1NzY3MTUsMTg3MT
+A4MjgzOSw3NjI1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3
+LDMwODgwOTY5XX0=
 -->
