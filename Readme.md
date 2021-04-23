@@ -11,6 +11,7 @@
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
+- [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/)
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
 - [Lasagnes végétarienne](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
@@ -36,7 +37,7 @@
 - [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/)
 - [Galettes courgette et jambon](https://magazine.laruchequiditoui.fr/legumologie/pique-nique-galettes-courgettes/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMDI1OTU3LDEwMDY1NzY3MTUsMTg3MT
-A4MjgzOSw3NjI1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3
-LDMwODgwOTY5XX0=
+eyJoaXN0b3J5IjpbMTY2Mjk1MzA5MCwxMDA2NTc2NzE1LDE4Nz
+EwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4
+NywzMDg4MDk2OV19
 -->
