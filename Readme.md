@@ -9,6 +9,7 @@
 ### Plats principaux
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
+- [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto)
 
 ### Desserts
 - [Tartelettes fraises-citron](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Tartelettes%20fraises-citron.md) :carrot:
@@ -21,6 +22,6 @@
 -  [Pâtes sauce aux champignons et aux poireaux](https://youtu.be/H6r65SHkpVs?t=507) 🥕
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4ND
-I4NDY4NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbMTg3MTA4MjgzOSw3NjI1Nzg1MzEsMTgzMj
+UxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
 -->
