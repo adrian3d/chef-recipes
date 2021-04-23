@@ -28,6 +28,7 @@
 - [Soupe à la tomate](https://www.youtube.com/watch?v=7BOOIqW9BQ4) :gb: :carrot:
 - [Tagliatelles au pesto de poivron rouge](https://fr.chatelaine.com/recettes/pates-2/tagliatelles-au-pesto-de-poivron-rouge/) :carrot:
 - [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto) :carrot:
+- [Tzatziki](https://www.papillesetpupilles.fr/2020/06/le-tzatziki-de-cyril-lignac.html/)
 
 ### Desserts
 - [Orangettes au chocolat](https://www.lemonde.fr/les-recettes-du-monde/article/2019/04/05/les-orangettes-au-chocolat-la-recette-facile-d-anne-xiradakis_5446261_5324493.html) :carrot:
@@ -50,7 +51,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjU3ODY3NTUsNzQzNjg3MjY1LC0zNz
-AxNTQ4NDMsMTAwNjU3NjcxNSwxODcxMDgyODM5LDc2MjU3ODUz
-MSwxODMyNTEzNzA1LC0xODQyODQ2ODcsMzA4ODA5NjldfQ==
+eyJoaXN0b3J5IjpbMjEzMTQzMTAxMCw3NDM2ODcyNjUsLTM3MD
+E1NDg0MywxMDA2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMx
+LDE4MzI1MTM3MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
 -->
