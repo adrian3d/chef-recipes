@@ -6,7 +6,7 @@
 - [Foie Gras au porto façon Papy](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Foie%20gras%20au%20porto%20fa%C3%A7on%20Papy.md)
 - [Taboulé de boulgour au pamplemousse](https://www.amandinecooking.com/taboule-de-boulgour-au-pamplemousse.html) :carrot:
 - [Soupe à la sucrine du Berry](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Soupe%20%C3%A0%20la%20sucrine%20du%20Berry.md) :carrot:
-- [Salade de choux rouge](https://www.youtube.com/watch?v=r3Gd2CNBmxk&list=PLTuTOLdBdcWEYV0Lo_UtOZVg3x-7Cd2FP&index=12)
+- [Salade de choux rouge](https://www.youtube.com/watch?v=r3Gd2CNBmxk&list=PLTuTOLdBdcWEYV0Lo_UtOZVg3x-7Cd2FP&index=12) :carrot:
 
 ### Plats principaux
 - [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/) :carrot:
@@ -60,8 +60,8 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMzEyMywyNTUzMjg1MTIsMTc1OTY1OD
-g5OCw3NDM2ODcyNjUsLTM3MDE1NDg0MywxMDA2NTc2NzE1LDE4
-NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4NDI4ND
-Y4NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbMTE3MDMzOTA1NCwyNTUzMjg1MTIsMTc1OT
+Y1ODg5OCw3NDM2ODcyNjUsLTM3MDE1NDg0MywxMDA2NTc2NzE1
+LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4ND
+I4NDY4NywzMDg4MDk2OV19
 -->
