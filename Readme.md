@@ -8,6 +8,7 @@
 - [Soupe à la sucrine du Berry](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Soupe%20%C3%A0%20la%20sucrine%20du%20Berry.md) :carrot:
 
 ### Plats principaux
+- [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html)
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
@@ -26,7 +27,7 @@
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
 - [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxOTQ4NzUzNSwxODcxMDgyODM5LDc2Mj
-U3ODUzMSwxODMyNTEzNzA1LC0xODQyODQ2ODcsMzA4ODA5Njld
-fQ==
+eyJoaXN0b3J5IjpbLTEzOTMyMDI5NTgsMTg3MTA4MjgzOSw3Nj
+I1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5
+XX0=
 -->
