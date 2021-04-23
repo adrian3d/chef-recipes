@@ -13,6 +13,7 @@
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
 - [Croûtons maison à l'ail et aux herbes de provence](https://dubiodansmonbento.com/croutons-maison-a-lail-et-aux-herbes-de-provence/)
+- [Feuilleté chèvre épinards](https://youtu.be/Uz4iZm4nDPE)
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
@@ -61,8 +62,8 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNzcwOTkwNCwyNTUzMjg1MTIsMTc1OT
-Y1ODg5OCw3NDM2ODcyNjUsLTM3MDE1NDg0MywxMDA2NTc2NzE1
-LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4ND
-I4NDY4NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbMjA0MDg1NDI5OCwtODA3NzA5OTA0LDI1NT
+MyODUxMiwxNzU5NjU4ODk4LDc0MzY4NzI2NSwtMzcwMTU0ODQz
+LDEwMDY1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEsMTgzMj
+UxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
 -->
