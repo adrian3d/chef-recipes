@@ -43,13 +43,13 @@
 - [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/) :carrot:
 - [Galettes courgette et jambon](https://magazine.laruchequiditoui.fr/legumologie/pique-nique-galettes-courgettes/)
 - [Galettes de courge spaghetti](https://www.ptitchef.com/recettes/entree/galettes-de-courge-spaghetti-aux-oignons-et-fromage-fid-553177) :carrot:
-- Gyoza
+- [Gyozas végétarien](https://biancazapatka.com/en/vegetable-dumplings-vegan-gyoza/)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjM0OTc2OTcsLTM3MDE1NDg0MywxMD
-A2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3
-MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbNzQwNzg3NjE5LC0zNzAxNTQ4NDMsMTAwNj
+U3NjcxNSwxODcxMDgyODM5LDc2MjU3ODUzMSwxODMyNTEzNzA1
+LC0xODQyODQ2ODcsMzA4ODA5NjldfQ==
 -->
