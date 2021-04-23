@@ -17,6 +17,7 @@
 - [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto) :carrot:
 
 ### Desserts
+- [Orangettes au chocolat](https://www.lemonde.fr/les-recettes-du-monde/article/2019/04/05/les-orangettes-au-chocolat-la-recette-facile-d-anne-xiradakis_5446261_5324493.html) :carrot:
 - [Tartelettes fraises-citron](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Tartelettes%20fraises-citron.md) :carrot:
 
 ## À faire
@@ -29,7 +30,7 @@
 - [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/)
 - [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTA3MDY2MDEsMTg3MTA4MjgzOSw3Nj
-I1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5
-XX0=
+eyJoaXN0b3J5IjpbMjk0NzM0MDMyLDE4NzEwODI4MzksNzYyNT
+c4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
+
 -->
