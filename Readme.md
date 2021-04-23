@@ -4,7 +4,7 @@
 ## Faites
 ### Entrées
 - [Foie Gras au porto façon Papy](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Foie%20gras%20au%20porto%20fa%C3%A7on%20Papy.md)
-- [Taboulé de boulgour au pamplemousse](https://www.amandinecooking.com/taboule-de-boulgour-au-pamplemousse.html)
+- [Taboulé de boulgour au pamplemousse](https://www.amandinecooking.com/taboule-de-boulgour-au-pamplemousse.html) :carrot:
 - [Soupe à la sucrine du Berry](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Soupe%20%C3%A0%20la%20sucrine%20du%20Berry.md) :carrot:
 
 ### Plats principaux
@@ -25,7 +25,7 @@
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
 - [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxNjkyNTc3NiwxODcxMDgyODM5LDc2Mj
+eyJoaXN0b3J5IjpbMTM3MzMwODc3NywxODcxMDgyODM5LDc2Mj
 U3ODUzMSwxODMyNTEzNzA1LC0xODQyODQ2ODcsMzA4ODA5Njld
 fQ==
 -->
