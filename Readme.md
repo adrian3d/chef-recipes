@@ -12,6 +12,7 @@
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
 - [Croûtons maison à l'ail et aux herbes de provence](https://dubiodansmonbento.com/croutons-maison-a-lail-et-aux-herbes-de-provence/)
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
+- [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot:
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
 - [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx)
@@ -49,7 +50,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzNjg3MjY1LC0zNzAxNTQ4NDMsMTAwNj
-U3NjcxNSwxODcxMDgyODM5LDc2MjU3ODUzMSwxODMyNTEzNzA1
-LC0xODQyODQ2ODcsMzA4ODA5NjldfQ==
+eyJoaXN0b3J5IjpbLTE4MjU3ODY3NTUsNzQzNjg3MjY1LC0zNz
+AxNTQ4NDMsMTAwNjU3NjcxNSwxODcxMDgyODM5LDc2MjU3ODUz
+MSwxODMyNTEzNzA1LC0xODQyODQ2ODcsMzA4ODA5NjldfQ==
 -->
