@@ -51,12 +51,13 @@
 - [Gyozas végétariens](https://biancazapatka.com/en/vegetable-dumplings-vegan-gyoza/) :carrot:
 - [Galettes de courgettes à la japonnaise](https://magazine.laruchequiditoui.fr/legumologie/courgette-a-toutes-sauces/galettes-de-courgettes-a-japonaise/) :carrot:
 - [Nems végétariens](https://www.cuisineaz.com/recettes/nems-vegetariens-101320.aspx) :carrot:
+- [Kimchi ananas](https://insaneinthebrine.com/pineapple-kimchi-hotsauce/) :carrot: :gb:
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0NTkzMTM4NywxNzU5NjU4ODk4LDc0Mz
+eyJoaXN0b3J5IjpbMTE5NDAwNTQxMywxNzU5NjU4ODk4LDc0Mz
 Y4NzI2NSwtMzcwMTU0ODQzLDEwMDY1NzY3MTUsMTg3MTA4Mjgz
 OSw3NjI1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwOD
 gwOTY5XX0=
