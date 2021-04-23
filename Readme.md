@@ -55,12 +55,13 @@
 - [Galettes de courgettes à la japonnaise](https://magazine.laruchequiditoui.fr/legumologie/courgette-a-toutes-sauces/galettes-de-courgettes-a-japonaise/) :carrot:
 - [Nems végétariens](https://www.cuisineaz.com/recettes/nems-vegetariens-101320.aspx) :carrot:
 - [Kimchi ananas](https://insaneinthebrine.com/pineapple-kimchi-hotsauce/) :carrot: :gb:
+- [Gougères au fromage](https://youtu.be/jiNsg9XqrrM)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDMzOTA1NCwyNTUzMjg1MTIsMTc1OT
+eyJoaXN0b3J5IjpbLTgwNzcwOTkwNCwyNTUzMjg1MTIsMTc1OT
 Y1ODg5OCw3NDM2ODcyNjUsLTM3MDE1NDg0MywxMDA2NTc2NzE1
 LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4ND
 I4NDY4NywzMDg4MDk2OV19
