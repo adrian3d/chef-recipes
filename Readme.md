@@ -13,6 +13,7 @@
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
+- [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx)
 - [Lasagnes végétarienne](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
 - [Pâtes au citron](https://prettysimplesweet.com/lemon-cilantro-pasta/) :carrot: :gb:
@@ -44,7 +45,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MzQ1OTU0MSwtMzcwMTU0ODQzLDEwMD
-Y1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEsMTgzMjUxMzcw
-NSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
+eyJoaXN0b3J5IjpbLTE4NDI5Mzk0OTAsLTM3MDE1NDg0MywxMD
+A2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3
+MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
 -->
