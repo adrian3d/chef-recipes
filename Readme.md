@@ -19,6 +19,7 @@
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
 - [Lasagnes végétarienne](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
+- [Oeufs mayonnaise - la recette de Gwilherm de Cerval](https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/06/l-uf-mayonnaise-la-recette-de-gwilherm-de-cerval_6032062_5324493.html)
 - [Pâtes au citron](https://prettysimplesweet.com/lemon-cilantro-pasta/) :carrot: :gb:
 - [Pesto de coriandre](https://www.taste.com.au/recipes/coriander-pesto/775c1052-59c9-4121-b605-3f14335747fd) :carrot: :gb:
 - [Pesto de fanes de radis](https://www.marmiton.org/recettes/recette_pesto-aux-fanes-de-radis_309981.aspx) :carrot:
@@ -53,7 +54,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE1ODkyNTMwLDc0MzY4NzI2NSwtMzcwMT
+eyJoaXN0b3J5IjpbODIzMjIzNjE3LDc0MzY4NzI2NSwtMzcwMT
 U0ODQzLDEwMDY1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEs
 MTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
 -->
