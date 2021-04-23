@@ -33,11 +33,11 @@
 	- Burrata🥕
 - [Pâtes sauce aux champignons et aux poireaux](https://youtu.be/H6r65SHkpVs?t=507) 🥕
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
-- [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/)
-- [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/)
+- [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/) :carrot:
+- [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/) :carrot:
 - [Galettes courgette et jambon](https://magazine.laruchequiditoui.fr/legumologie/pique-nique-galettes-courgettes/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MjA5NzY4MCwxMDA2NTc2NzE1LDE4Nz
-EwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4
-NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbODU1MDU1MjM4LDEwMDY1NzY3MTUsMTg3MT
+A4MjgzOSw3NjI1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3
+LDMwODgwOTY5XX0=
 -->
