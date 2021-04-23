@@ -1,6 +1,8 @@
 
 # Mon carnet de recettes
 
+:carrot: **Végétarien (pas vegan)**  :gb: **En anglais**
+
 ## Faites
 ### Entrées
 - [Foie Gras au porto façon Papy](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Foie%20gras%20au%20porto%20fa%C3%A7on%20Papy.md)
@@ -66,11 +68,8 @@
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
-
-:carrot: **Végétarien (pas vegan)**
-:gb: **En anglais**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0NTE0MzM0MSwtODA3NzA5OTA0LDI1NT
+eyJoaXN0b3J5IjpbMTA1MzY4MDgzMywtODA3NzA5OTA0LDI1NT
 MyODUxMiwxNzU5NjU4ODk4LDc0MzY4NzI2NSwtMzcwMTU0ODQz
 LDEwMDY1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEsMTgzMj
 UxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
