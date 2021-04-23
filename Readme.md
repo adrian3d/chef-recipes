@@ -47,12 +47,13 @@
 - [Galettes courgette et jambon](https://magazine.laruchequiditoui.fr/legumologie/pique-nique-galettes-courgettes/)
 - [Galettes de courge spaghetti](https://www.ptitchef.com/recettes/entree/galettes-de-courge-spaghetti-aux-oignons-et-fromage-fid-553177) :carrot:
 - [Gyozas végétariens](https://biancazapatka.com/en/vegetable-dumplings-vegan-gyoza/) :carrot:
+- [Galettes de courgettes à la japonnaise](https://magazine.laruchequiditoui.fr/legumologie/courgette-a-toutes-sauces/galettes-de-courgettes-a-japonaise/)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MTY2NzAzMSw3NDM2ODcyNjUsLTM3MD
-E1NDg0MywxMDA2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMx
-LDE4MzI1MTM3MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbMzE1ODkyNTMwLDc0MzY4NzI2NSwtMzcwMT
+U0ODQzLDEwMDY1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEs
+MTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
 -->
