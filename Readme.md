@@ -16,6 +16,7 @@
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
 - [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot:
 - [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx) :carrot:
+- [Gyozas végétariens](https://youcookcuisine.com/recette/gyozas-vegetariens/)
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
 - [Lasagnes végétarienne](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
@@ -57,8 +58,8 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzgyMjg5MDMsMTc1OTY1ODg5OCw3ND
-M2ODcyNjUsLTM3MDE1NDg0MywxMDA2NTc2NzE1LDE4NzEwODI4
-MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4NywzMD
-g4MDk2OV19
+eyJoaXN0b3J5IjpbMTkyNzcwNTA4NCwxNzU5NjU4ODk4LDc0Mz
+Y4NzI2NSwtMzcwMTU0ODQzLDEwMDY1NzY3MTUsMTg3MTA4Mjgz
+OSw3NjI1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwOD
+gwOTY5XX0=
 -->
