@@ -28,6 +28,7 @@
 - [Pâte carbonara](https://youtu.be/99mmYGh7cZ8?t=282)
 - [Pesto de coriandre](https://www.taste.com.au/recipes/coriander-pesto/775c1052-59c9-4121-b605-3f14335747fd) :carrot: :gb:
 - [Pesto de fanes de radis](https://www.marmiton.org/recettes/recette_pesto-aux-fanes-de-radis_309981.aspx) :carrot:
+- [Pesto de roquettes](https://youtu.be/AfVdtItAP_g) 
 - [Pizza d'automne à la courge butternut](https://marinmamacooks.com/2015/11/fall-roasted-vegetable-pizza/) :carrot:
 - [Quesadillas maison](https://www.youtube.com/watch?v=ILb86PTrY28) :gb: :carrot:
 - [Raviolis chèvre épinards ricotta](https://cahierdegourmandises.fr/raviolis-epinards-ricotta/) :carrot:
@@ -63,7 +64,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMTU2ODIyNywtODA3NzA5OTA0LDI1NT
+eyJoaXN0b3J5IjpbMTE4OTQ0ODc0OSwtODA3NzA5OTA0LDI1NT
 MyODUxMiwxNzU5NjU4ODk4LDc0MzY4NzI2NSwtMzcwMTU0ODQz
 LDEwMDY1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEsMTgzMj
 UxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
