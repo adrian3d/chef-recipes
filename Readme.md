@@ -68,8 +68,9 @@
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 
 :carrot: **Végétarien (pas vegan)**
+:gb: **En anglais**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzODM0OTYxMCwtODA3NzA5OTA0LDI1NT
+eyJoaXN0b3J5IjpbLTU0NTE0MzM0MSwtODA3NzA5OTA0LDI1NT
 MyODUxMiwxNzU5NjU4ODk4LDc0MzY4NzI2NSwtMzcwMTU0ODQz
 LDEwMDY1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEsMTgzMj
 UxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
