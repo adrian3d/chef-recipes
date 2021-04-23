@@ -22,6 +22,7 @@
 - [Pesto de fanes de radis](https://www.marmiton.org/recettes/recette_pesto-aux-fanes-de-radis_309981.aspx) :carrot:
 - [Pizza d'automne à la courge butternut](https://marinmamacooks.com/2015/11/fall-roasted-vegetable-pizza/) :carrot:
 - [Quesadillas maison](https://www.youtube.com/watch?v=ILb86PTrY28) :gb: :carrot:
+- [Raviolis chèvre épinards](https://cahierdegourmandises.fr/raviolis-epinards-ricotta/)
 - [Risotto d'épeautre aux légumes anciens](https://www.cuisineaz.com/recettes/risotto-d-epeautre-aux-legumes-anciens-et-noisettes-95563.aspx) :carrot:
 - [Soupe à la tomate](https://www.youtube.com/watch?v=7BOOIqW9BQ4) :gb: :carrot:
 - [Tagliatelles au pesto de poivron rouge](https://fr.chatelaine.com/recettes/pates-2/tagliatelles-au-pesto-de-poivron-rouge/) :carrot:
@@ -47,7 +48,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTE5NjI2MTIsLTM3MDE1NDg0MywxMD
-A2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3
-MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbMTMyNTEwMTA1OSwtMzcwMTU0ODQzLDEwMD
+Y1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEsMTgzMjUxMzcw
+NSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
 -->
