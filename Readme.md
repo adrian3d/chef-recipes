@@ -48,7 +48,7 @@
 - [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/) :carrot:
 - [Galettes courgette et jambon](https://magazine.laruchequiditoui.fr/legumologie/pique-nique-galettes-courgettes/)
 - [Galettes de courge spaghetti](https://www.ptitchef.com/recettes/entree/galettes-de-courge-spaghetti-aux-oignons-et-fromage-fid-553177) :carrot:
-- [Gyozas végétariens](https://biancazapatka.com/en/vegetable-dumplings-vegan-gyoza/) :carrot:
+- [Gyozas végétariens (Recette )](https://biancazapatka.com/en/vegetable-dumplings-vegan-gyoza/) :carrot:
 - [Galettes de courgettes à la japonnaise](https://magazine.laruchequiditoui.fr/legumologie/courgette-a-toutes-sauces/galettes-de-courgettes-a-japonaise/) :carrot:
 - [Nems végétariens](https://www.cuisineaz.com/recettes/nems-vegetariens-101320.aspx) :carrot:
 - [Kimchi ananas](https://insaneinthebrine.com/pineapple-kimchi-hotsauce/) :carrot: :gb:
@@ -57,7 +57,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5NDAwNTQxMywxNzU5NjU4ODk4LDc0Mz
+eyJoaXN0b3J5IjpbMjE0NTE5OTk1NiwxNzU5NjU4ODk4LDc0Mz
 Y4NzI2NSwtMzcwMTU0ODQzLDEwMDY1NzY3MTUsMTg3MTA4Mjgz
 OSw3NjI1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwOD
 gwOTY5XX0=
