@@ -20,10 +20,11 @@
 	- Tartines de compoté de figues 🥕
 	- Boeuf bourguignon like
 	- Burrata🥕
--  [Pâtes sauce aux champignons et aux poireaux](https://youtu.be/H6r65SHkpVs?t=507) 🥕
+- [Pâtes sauce aux champignons et aux poireaux](https://youtu.be/H6r65SHkpVs?t=507) 🥕
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
+- [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjYyMjE0MDgsMTg3MTA4MjgzOSw3Nj
-I1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5
-XX0=
+eyJoaXN0b3J5IjpbOTM0ODUyMTY2LDE4NzEwODI4MzksNzYyNT
+c4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
+
 -->
