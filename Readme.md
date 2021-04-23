@@ -1,5 +1,5 @@
 
-# Les recettes du chef
+# Mon carnet de recettes
 
 ## Faites
 ### Entrées
@@ -67,8 +67,8 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQzMDAyNTg1LC04MDc3MDk5MDQsMjU1Mz
-I4NTEyLDE3NTk2NTg4OTgsNzQzNjg3MjY1LC0zNzAxNTQ4NDMs
-MTAwNjU3NjcxNSwxODcxMDgyODM5LDc2MjU3ODUzMSwxODMyNT
-EzNzA1LC0xODQyODQ2ODcsMzA4ODA5NjldfQ==
+eyJoaXN0b3J5IjpbLTEyNTg5ODM1NTgsLTgwNzcwOTkwNCwyNT
+UzMjg1MTIsMTc1OTY1ODg5OCw3NDM2ODcyNjUsLTM3MDE1NDg0
+MywxMDA2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4Mz
+I1MTM3MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
 -->
