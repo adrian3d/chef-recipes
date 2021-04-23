@@ -17,6 +17,7 @@
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
 - [Pâtes au citron](https://prettysimplesweet.com/lemon-cilantro-pasta/) :carrot: :gb:
 - [Pesto de coriandre](https://www.taste.com.au/recipes/coriander-pesto/775c1052-59c9-4121-b605-3f14335747fd) :carrot: :gb:
+- [Pesto de fanes de radis](https://www.marmiton.org/recettes/recette_pesto-aux-fanes-de-radis_309981.aspx) :carrot:
 - [Quesadillas maison](https://www.youtube.com/watch?v=ILb86PTrY28) :gb: :carrot:
 - [Risotto d'épeautre aux légumes anciens](https://www.cuisineaz.com/recettes/risotto-d-epeautre-aux-legumes-anciens-et-noisettes-95563.aspx) :carrot:
 - [Soupe à la tomate](https://www.youtube.com/watch?v=7BOOIqW9BQ4) :gb: :carrot:
@@ -43,7 +44,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDE1NDg0MywxMDA2NTc2NzE1LDE4Nz
-EwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4
-NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbMjA1MzQ1OTU0MSwtMzcwMTU0ODQzLDEwMD
+Y1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEsMTgzMjUxMzcw
+NSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
 -->
