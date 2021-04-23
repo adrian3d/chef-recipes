@@ -26,8 +26,9 @@
 - [Pâtes sauce aux champignons et aux poireaux](https://youtu.be/H6r65SHkpVs?t=507) 🥕
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
 - [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/)
+- [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTMyMDI5NTgsMTg3MTA4MjgzOSw3Nj
-I1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5
-XX0=
+eyJoaXN0b3J5IjpbLTY0ODA1MTI1MSwxODcxMDgyODM5LDc2Mj
+U3ODUzMSwxODMyNTEzNzA1LC0xODQyODQ2ODcsMzA4ODA5Njld
+fQ==
 -->
