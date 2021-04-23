@@ -14,6 +14,7 @@
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
 - [Lasagnes végétarienne](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
+- [Pesto de coriandre](https://www.taste.com.au/recipes/coriander-pesto/775c1052-59c9-4121-b605-3f14335747fd)
 - [Quesadillas maison](https://www.youtube.com/watch?v=ILb86PTrY28) :gb: :carrot:
 - [Tagliatelles au pesto de poivron rouge](https://fr.chatelaine.com/recettes/pates-2/tagliatelles-au-pesto-de-poivron-rouge/)
 - [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto) :carrot:
@@ -32,7 +33,7 @@
 - [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/)
 - [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwNjU3NjcxNSwxODcxMDgyODM5LDc2Mj
-U3ODUzMSwxODMyNTEzNzA1LC0xODQyODQ2ODcsMzA4ODA5Njld
-fQ==
+eyJoaXN0b3J5IjpbMTY2NTk3NTE4MSwxMDA2NTc2NzE1LDE4Nz
+EwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3MDUsLTE4NDI4NDY4
+NywzMDg4MDk2OV19
 -->
