@@ -17,7 +17,7 @@
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
 - [Croûtons maison à l'ail et aux herbes de provence](https://dubiodansmonbento.com/croutons-maison-a-lail-et-aux-herbes-de-provence/)
-- [Feuilleté chèvre épinards](https://youtu.be/Uz4iZm4nDPE)
+- [Feuilleté chèvre épinards](https://youtu.be/Uz4iZm4nDPE) :carrot:
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
@@ -70,9 +70,9 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNjE1NjQ0NCwtMTM3NzgxNzI2MSwxNT
-g1NzgwMjQ3LDE5OTk1MjQzNzYsLTgwNzcwOTkwNCwyNTUzMjg1
-MTIsMTc1OTY1ODg5OCw3NDM2ODcyNjUsLTM3MDE1NDg0MywxMD
-A2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3
-MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbMTk2MzM0NjI3NywtMzE2MTU2NDQ0LC0xMz
+c3ODE3MjYxLDE1ODU3ODAyNDcsMTk5OTUyNDM3NiwtODA3NzA5
+OTA0LDI1NTMyODUxMiwxNzU5NjU4ODk4LDc0MzY4NzI2NSwtMz
+cwMTU0ODQzLDEwMDY1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1
+MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
 -->
