@@ -25,7 +25,7 @@
 - [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx) :carrot:
 - [Gyozas végétariens](https://youcookcuisine.com/recette/gyozas-vegetariens/)
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
-- [Lasagnes végétarienne](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
+- [Lasagnes végétariennes](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
 - [Oeufs mayonnaise - la recette de Gwilherm de Cerval](https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/06/l-uf-mayonnaise-la-recette-de-gwilherm-de-cerval_6032062_5324493.html) :carrot:
 - [Pâtes au citron](https://prettysimplesweet.com/lemon-cilantro-pasta/) :carrot: :gb:
@@ -70,9 +70,9 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzc4MTcyNjEsMTU4NTc4MDI0NywxOT
-k5NTI0Mzc2LC04MDc3MDk5MDQsMjU1MzI4NTEyLDE3NTk2NTg4
-OTgsNzQzNjg3MjY1LC0zNzAxNTQ4NDMsMTAwNjU3NjcxNSwxOD
-cxMDgyODM5LDc2MjU3ODUzMSwxODMyNTEzNzA1LC0xODQyODQ2
-ODcsMzA4ODA5NjldfQ==
+eyJoaXN0b3J5IjpbLTMxNjE1NjQ0NCwtMTM3NzgxNzI2MSwxNT
+g1NzgwMjQ3LDE5OTk1MjQzNzYsLTgwNzcwOTkwNCwyNTUzMjg1
+MTIsMTc1OTY1ODg5OCw3NDM2ODcyNjUsLTM3MDE1NDg0MywxMD
+A2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3
+MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
 -->
