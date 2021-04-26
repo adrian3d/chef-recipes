@@ -26,8 +26,8 @@
 -   Attendre environ une demi-heure.
 -   Mettre au frigo.
 -   Manger au bout de 3-4 jours histoire de faire vieillir un peu.
--   Sortir délicatement du micro-onde
+- 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5Mjg5OTQ5XX0=
+eyJoaXN0b3J5IjpbMjY0NzA3Mjc3XX0=
 -->
