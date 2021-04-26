@@ -20,7 +20,7 @@
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
-- [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot:
+- [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot: :gb:
 - [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx) :carrot:
 - [Gyozas végétariens](https://youcookcuisine.com/recette/gyozas-vegetariens/)
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
@@ -69,8 +69,9 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTUyNDM3NiwtODA3NzA5OTA0LDI1NT
-MyODUxMiwxNzU5NjU4ODk4LDc0MzY4NzI2NSwtMzcwMTU0ODQz
-LDEwMDY1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1MzEsMTgzMj
-UxMzcwNSwtMTg0Mjg0Njg3LDMwODgwOTY5XX0=
+eyJoaXN0b3J5IjpbMTU4NTc4MDI0NywxOTk5NTI0Mzc2LC04MD
+c3MDk5MDQsMjU1MzI4NTEyLDE3NTk2NTg4OTgsNzQzNjg3MjY1
+LC0zNzAxNTQ4NDMsMTAwNjU3NjcxNSwxODcxMDgyODM5LDc2Mj
+U3ODUzMSwxODMyNTEzNzA1LC0xODQyODQ2ODcsMzA4ODA5Njld
+fQ==
 -->
