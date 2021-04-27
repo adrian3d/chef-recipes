@@ -41,7 +41,7 @@
 - [Risotto d'épeautre aux légumes anciens](https://www.cuisineaz.com/recettes/risotto-d-epeautre-aux-legumes-anciens-et-noisettes-95563.aspx) :carrot:
 - [Spaghetti aglio et olio](https://www.mesinspirationsculinaires.com/article-spaghetti-aglio-e-olio-pates-a-lail-et-huile-dolive.html) :carrot:
 - [Soupe à la tomate](https://www.youtube.com/watch?v=7BOOIqW9BQ4) :gb: :carrot:
-- [Soupe aux poireaux et à l'ail](http://www.lesfoodies.com/val53/recette/soupe-tomates-poireaux-a-lail)
+- [Soupe aux poireaux et à l'ail](http://www.lesfoodies.com/val53/recette/soupe-tomates-poireaux-a-lail) :carrot:
 - [Tagliatelles au pesto de poivron rouge](https://fr.chatelaine.com/recettes/pates-2/tagliatelles-au-pesto-de-poivron-rouge/) :carrot:
 - [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto) :carrot:
 - [Tzatziki](https://www.papillesetpupilles.fr/2020/06/le-tzatziki-de-cyril-lignac.html/) :carrot:
@@ -71,7 +71,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTA4MDM0NCwxOTYzMzQ2Mjc3LC0zMT
+eyJoaXN0b3J5IjpbLTIzMTY0NTkxMSwxOTYzMzQ2Mjc3LC0zMT
 YxNTY0NDQsLTEzNzc4MTcyNjEsMTU4NTc4MDI0NywxOTk5NTI0
 Mzc2LC04MDc3MDk5MDQsMjU1MzI4NTEyLDE3NTk2NTg4OTgsNz
 QzNjg3MjY1LC0zNzAxNTQ4NDMsMTAwNjU3NjcxNSwxODcxMDgy
