@@ -66,15 +66,16 @@
 - [Kimchi ananas](https://insaneinthebrine.com/pineapple-kimchi-hotsauce/) :carrot: :gb:
 - [Kimchi mangue](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Kimchi-de-mangue-3152044) :carrot:
 - [Gougères au fromage](https://youtu.be/jiNsg9XqrrM) :carrot:
+- [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIzMTY0NTkxMSwxOTYzMzQ2Mjc3LC0zMT
-YxNTY0NDQsLTEzNzc4MTcyNjEsMTU4NTc4MDI0NywxOTk5NTI0
-Mzc2LC04MDc3MDk5MDQsMjU1MzI4NTEyLDE3NTk2NTg4OTgsNz
-QzNjg3MjY1LC0zNzAxNTQ4NDMsMTAwNjU3NjcxNSwxODcxMDgy
-ODM5LDc2MjU3ODUzMSwxODMyNTEzNzA1LC0xODQyODQ2ODcsMz
-A4ODA5NjldfQ==
+eyJoaXN0b3J5IjpbLTE3MjYzNTM4NDMsLTIzMTY0NTkxMSwxOT
+YzMzQ2Mjc3LC0zMTYxNTY0NDQsLTEzNzc4MTcyNjEsMTU4NTc4
+MDI0NywxOTk5NTI0Mzc2LC04MDc3MDk5MDQsMjU1MzI4NTEyLD
+E3NTk2NTg4OTgsNzQzNjg3MjY1LC0zNzAxNTQ4NDMsMTAwNjU3
+NjcxNSwxODcxMDgyODM5LDc2MjU3ODUzMSwxODMyNTEzNzA1LC
+0xODQyODQ2ODcsMzA4ODA5NjldfQ==
 -->
