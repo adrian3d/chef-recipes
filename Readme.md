@@ -27,6 +27,7 @@
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
 - [Lasagnes végétariennes](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
+- [Nems végétariens](https://www.cuisineaz.com/recettes/nems-vegetariens-101320.aspx) :carrot: *Remplacer la protéine de soja par du tofu fumé
 - [Oeufs mayonnaise - la recette de Gwilherm de Cerval](https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/06/l-uf-mayonnaise-la-recette-de-gwilherm-de-cerval_6032062_5324493.html) :carrot:
 - [Pâtes aux champignons et aux poireaux](https://youtu.be/H6r65SHkpVs?t=507) 🥕 :gb:
 - [Pâtes au citron](https://prettysimplesweet.com/lemon-cilantro-pasta/) :carrot: :gb:
@@ -62,7 +63,6 @@
 - [Galettes de courge spaghetti](https://www.ptitchef.com/recettes/entree/galettes-de-courge-spaghetti-aux-oignons-et-fromage-fid-553177) :carrot:
 - [Gyozas végétariens (Recette alternative)](https://biancazapatka.com/en/vegetable-dumplings-vegan-gyoza/) :carrot:
 - [Galettes de courgettes à la japonnaise](https://magazine.laruchequiditoui.fr/legumologie/courgette-a-toutes-sauces/galettes-de-courgettes-a-japonaise/) :carrot:
-- [Nems végétariens](https://www.cuisineaz.com/recettes/nems-vegetariens-101320.aspx) :carrot:
 - [Kimchi ananas](https://insaneinthebrine.com/pineapple-kimchi-hotsauce/) :carrot: :gb:
 - [Kimchi mangue](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Kimchi-de-mangue-3152044) :carrot:
 - [Gougères au fromage](https://youtu.be/jiNsg9XqrrM) :carrot:
@@ -72,10 +72,11 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MTY2OTg4NywtMTcyNjM1Mzg0MywtMj
-MxNjQ1OTExLDE5NjMzNDYyNzcsLTMxNjE1NjQ0NCwtMTM3Nzgx
-NzI2MSwxNTg1NzgwMjQ3LDE5OTk1MjQzNzYsLTgwNzcwOTkwNC
-wyNTUzMjg1MTIsMTc1OTY1ODg5OCw3NDM2ODcyNjUsLTM3MDE1
-NDg0MywxMDA2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLD
-E4MzI1MTM3MDUsLTE4NDI4NDY4NywzMDg4MDk2OV19
+eyJoaXN0b3J5IjpbLTM0MjM4ODYwNiwxMzQxNjY5ODg3LC0xNz
+I2MzUzODQzLC0yMzE2NDU5MTEsMTk2MzM0NjI3NywtMzE2MTU2
+NDQ0LC0xMzc3ODE3MjYxLDE1ODU3ODAyNDcsMTk5OTUyNDM3Ni
+wtODA3NzA5OTA0LDI1NTMyODUxMiwxNzU5NjU4ODk4LDc0MzY4
+NzI2NSwtMzcwMTU0ODQzLDEwMDY1NzY3MTUsMTg3MTA4MjgzOS
+w3NjI1Nzg1MzEsMTgzMjUxMzcwNSwtMTg0Mjg0Njg3LDMwODgw
+OTY5XX0=
 -->
