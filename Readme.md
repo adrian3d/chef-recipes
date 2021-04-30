@@ -67,16 +67,17 @@
 - [Kimchi mangue](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Kimchi-de-mangue-3152044) :carrot:
 - [Gougères au fromage](https://youtu.be/jiNsg9XqrrM) :carrot:
 - [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
+- [Cake salé à l'ail des ours](https://www.lacuisinedebernard.com/2021/04/cake-sale-a-lail-des-ours.html)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDcxNzkxNywtMzQyMzg4NjA2LDEzND
-E2Njk4ODcsLTE3MjYzNTM4NDMsLTIzMTY0NTkxMSwxOTYzMzQ2
-Mjc3LC0zMTYxNTY0NDQsLTEzNzc4MTcyNjEsMTU4NTc4MDI0Ny
-wxOTk5NTI0Mzc2LC04MDc3MDk5MDQsMjU1MzI4NTEyLDE3NTk2
-NTg4OTgsNzQzNjg3MjY1LC0zNzAxNTQ4NDMsMTAwNjU3NjcxNS
-wxODcxMDgyODM5LDc2MjU3ODUzMSwxODMyNTEzNzA1LC0xODQy
-ODQ2ODddfQ==
+eyJoaXN0b3J5IjpbOTU3NjQ2MCwxOTMwNzE3OTE3LC0zNDIzOD
+g2MDYsMTM0MTY2OTg4NywtMTcyNjM1Mzg0MywtMjMxNjQ1OTEx
+LDE5NjMzNDYyNzcsLTMxNjE1NjQ0NCwtMTM3NzgxNzI2MSwxNT
+g1NzgwMjQ3LDE5OTk1MjQzNzYsLTgwNzcwOTkwNCwyNTUzMjg1
+MTIsMTc1OTY1ODg5OCw3NDM2ODcyNjUsLTM3MDE1NDg0MywxMD
+A2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3
+MDVdfQ==
 -->
