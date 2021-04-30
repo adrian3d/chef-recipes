@@ -68,16 +68,17 @@
 - [Gougères au fromage](https://youtu.be/jiNsg9XqrrM) :carrot:
 - [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
 - [Cake salé à l'ail des ours](https://www.lacuisinedebernard.com/2021/04/cake-sale-a-lail-des-ours.html)
+- [](https://www.youtube.com/watch?v=hsmEEXHrzBg)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTU3NjQ2MCwxOTMwNzE3OTE3LC0zNDIzOD
-g2MDYsMTM0MTY2OTg4NywtMTcyNjM1Mzg0MywtMjMxNjQ1OTEx
-LDE5NjMzNDYyNzcsLTMxNjE1NjQ0NCwtMTM3NzgxNzI2MSwxNT
-g1NzgwMjQ3LDE5OTk1MjQzNzYsLTgwNzcwOTkwNCwyNTUzMjg1
-MTIsMTc1OTY1ODg5OCw3NDM2ODcyNjUsLTM3MDE1NDg0MywxMD
-A2NTc2NzE1LDE4NzEwODI4MzksNzYyNTc4NTMxLDE4MzI1MTM3
-MDVdfQ==
+eyJoaXN0b3J5IjpbMTM1MzEzMzM4MSw5NTc2NDYwLDE5MzA3MT
+c5MTcsLTM0MjM4ODYwNiwxMzQxNjY5ODg3LC0xNzI2MzUzODQz
+LC0yMzE2NDU5MTEsMTk2MzM0NjI3NywtMzE2MTU2NDQ0LC0xMz
+c3ODE3MjYxLDE1ODU3ODAyNDcsMTk5OTUyNDM3NiwtODA3NzA5
+OTA0LDI1NTMyODUxMiwxNzU5NjU4ODk4LDc0MzY4NzI2NSwtMz
+cwMTU0ODQzLDEwMDY1NzY3MTUsMTg3MTA4MjgzOSw3NjI1Nzg1
+MzFdfQ==
 -->
