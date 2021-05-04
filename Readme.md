@@ -13,6 +13,7 @@
 ### Plats principaux
 - [Blanquette végétarienne](https://www.youtube.com/watch?v=gMnfNY_9kiw)
 - [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/) :carrot:
+- [Cake salé à l'ail des ours](https://www.lacuisinedebernard.com/2021/04/cake-sale-a-lail-des-ours.html)
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
@@ -67,18 +68,17 @@
 - [Kimchi mangue](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Kimchi-de-mangue-3152044) :carrot:
 - [Gougères au fromage](https://youtu.be/jiNsg9XqrrM) :carrot:
 - [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
-- [Cake salé à l'ail des ours](https://www.lacuisinedebernard.com/2021/04/cake-sale-a-lail-des-ours.html)
 - [Pâtes épinards et petits pois](https://www.youtube.com/watch?v=hsmEEXHrzBg) :carrot: :gb:
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1NzcyOTA1MiwxMzUzMTMzMzgxLDk1Nz
-Y0NjAsMTkzMDcxNzkxNywtMzQyMzg4NjA2LDEzNDE2Njk4ODcs
-LTE3MjYzNTM4NDMsLTIzMTY0NTkxMSwxOTYzMzQ2Mjc3LC0zMT
-YxNTY0NDQsLTEzNzc4MTcyNjEsMTU4NTc4MDI0NywxOTk5NTI0
-Mzc2LC04MDc3MDk5MDQsMjU1MzI4NTEyLDE3NTk2NTg4OTgsNz
-QzNjg3MjY1LC0zNzAxNTQ4NDMsMTAwNjU3NjcxNSwxODcxMDgy
-ODM5XX0=
+eyJoaXN0b3J5IjpbLTE3OTMxNzMxMTQsMTE1NzcyOTA1MiwxMz
+UzMTMzMzgxLDk1NzY0NjAsMTkzMDcxNzkxNywtMzQyMzg4NjA2
+LDEzNDE2Njk4ODcsLTE3MjYzNTM4NDMsLTIzMTY0NTkxMSwxOT
+YzMzQ2Mjc3LC0zMTYxNTY0NDQsLTEzNzc4MTcyNjEsMTU4NTc4
+MDI0NywxOTk5NTI0Mzc2LC04MDc3MDk5MDQsMjU1MzI4NTEyLD
+E3NTk2NTg4OTgsNzQzNjg3MjY1LC0zNzAxNTQ4NDMsMTAwNjU3
+NjcxNV19
 -->
