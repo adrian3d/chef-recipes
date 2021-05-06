@@ -69,16 +69,17 @@
 - [Gougères au fromage](https://youtu.be/jiNsg9XqrrM) :carrot:
 - [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
 - [Pâtes épinards et petits pois](https://www.youtube.com/watch?v=hsmEEXHrzBg) :carrot: :gb:
+- [Bagel saumon et avocat](https://plaisiretequilibre.wordpress.com/2015/03/04/bagels-saumon-fume-avocat-et-sauce-ciboulette-bataille-food-21/)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTMxNzMxMTQsMTE1NzcyOTA1MiwxMz
-UzMTMzMzgxLDk1NzY0NjAsMTkzMDcxNzkxNywtMzQyMzg4NjA2
-LDEzNDE2Njk4ODcsLTE3MjYzNTM4NDMsLTIzMTY0NTkxMSwxOT
-YzMzQ2Mjc3LC0zMTYxNTY0NDQsLTEzNzc4MTcyNjEsMTU4NTc4
-MDI0NywxOTk5NTI0Mzc2LC04MDc3MDk5MDQsMjU1MzI4NTEyLD
-E3NTk2NTg4OTgsNzQzNjg3MjY1LC0zNzAxNTQ4NDMsMTAwNjU3
-NjcxNV19
+eyJoaXN0b3J5IjpbLTExMTAzMzk5NzcsLTE3OTMxNzMxMTQsMT
+E1NzcyOTA1MiwxMzUzMTMzMzgxLDk1NzY0NjAsMTkzMDcxNzkx
+NywtMzQyMzg4NjA2LDEzNDE2Njk4ODcsLTE3MjYzNTM4NDMsLT
+IzMTY0NTkxMSwxOTYzMzQ2Mjc3LC0zMTYxNTY0NDQsLTEzNzc4
+MTcyNjEsMTU4NTc4MDI0NywxOTk5NTI0Mzc2LC04MDc3MDk5MD
+QsMjU1MzI4NTEyLDE3NTk2NTg4OTgsNzQzNjg3MjY1LC0zNzAx
+NTQ4NDNdfQ==
 -->
