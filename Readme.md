@@ -39,7 +39,7 @@
 - [Pesto de pistaches](https://www.youtube.com/watch?v=pR21oXmG3eI) :carrot: (facilement adaptable en végé)
 - [Pesto de roquettes](https://youtu.be/AfVdtItAP_g) :carrot:
 - [Pizza d'automne à la courge butternut](https://marinmamacooks.com/2015/11/fall-roasted-vegetable-pizza/) :carrot:
-- [Poulet Tikka Massala]()
+- [Poulet Tikka Massala](https://cuisine-addict.com/poulet-tikka-masala/)
 - [Quesadillas maison](https://www.youtube.com/watch?v=ILb86PTrY28) :gb: :carrot:
 - [Raviolis chèvre épinards ricotta](https://cahierdegourmandises.fr/raviolis-epinards-ricotta/) :carrot:
 - [Risotto d'épeautre aux légumes anciens](https://www.cuisineaz.com/recettes/risotto-d-epeautre-aux-legumes-anciens-et-noisettes-95563.aspx) :carrot:
@@ -76,7 +76,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMTkzMjE5MCwtMTExMDMzOTk3NywtMT
+eyJoaXN0b3J5IjpbMTgzOTA1MjQ1OCwtMTExMDMzOTk3NywtMT
 c5MzE3MzExNCwxMTU3NzI5MDUyLDEzNTMxMzMzODEsOTU3NjQ2
 MCwxOTMwNzE3OTE3LC0zNDIzODg2MDYsMTM0MTY2OTg4NywtMT
 cyNjM1Mzg0MywtMjMxNjQ1OTExLDE5NjMzNDYyNzcsLTMxNjE1
