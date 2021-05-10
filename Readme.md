@@ -71,17 +71,17 @@
 - [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
 - [Pâtes épinards et petits pois](https://www.youtube.com/watch?v=hsmEEXHrzBg) :carrot: :gb:
 - [Bagel saumon et avocat](https://plaisiretequilibre.wordpress.com/2015/03/04/bagels-saumon-fume-avocat-et-sauce-ciboulette-bataille-food-21/)
-- [Lasagnes ](https://piao.fr/2020/09/la-recette-du-jour-lasagnes-de-courgettes/)
+- [Lasagnes courgettes](https://piao.fr/2020/09/la-recette-du-jour-lasagnes-de-courgettes/)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDc4ODU4MzUsMTgzOTA1MjQ1OCwtMT
-ExMDMzOTk3NywtMTc5MzE3MzExNCwxMTU3NzI5MDUyLDEzNTMx
-MzMzODEsOTU3NjQ2MCwxOTMwNzE3OTE3LC0zNDIzODg2MDYsMT
-M0MTY2OTg4NywtMTcyNjM1Mzg0MywtMjMxNjQ1OTExLDE5NjMz
-NDYyNzcsLTMxNjE1NjQ0NCwtMTM3NzgxNzI2MSwxNTg1NzgwMj
-Q3LDE5OTk1MjQzNzYsLTgwNzcwOTkwNCwyNTUzMjg1MTIsMTc1
-OTY1ODg5OF19
+eyJoaXN0b3J5IjpbLTIzNTIzNzEyMCwxODM5MDUyNDU4LC0xMT
+EwMzM5OTc3LC0xNzkzMTczMTE0LDExNTc3MjkwNTIsMTM1MzEz
+MzM4MSw5NTc2NDYwLDE5MzA3MTc5MTcsLTM0MjM4ODYwNiwxMz
+QxNjY5ODg3LC0xNzI2MzUzODQzLC0yMzE2NDU5MTEsMTk2MzM0
+NjI3NywtMzE2MTU2NDQ0LC0xMzc3ODE3MjYxLDE1ODU3ODAyND
+csMTk5OTUyNDM3NiwtODA3NzA5OTA0LDI1NTMyODUxMiwxNzU5
+NjU4ODk4XX0=
 -->
