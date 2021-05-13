@@ -11,6 +11,7 @@
 - [Salade de choux rouge](https://www.youtube.com/watch?v=r3Gd2CNBmxk&list=PLTuTOLdBdcWEYV0Lo_UtOZVg3x-7Cd2FP&index=12) :carrot:
 
 ### Plats principaux
+- [Bagel saumon et avocat](https://plaisiretequilibre.wordpress.com/2015/03/04/bagels-saumon-fume-avocat-et-sauce-ciboulette-bataille-food-21/) :
 - [Blanquette végétarienne](https://www.youtube.com/watch?v=gMnfNY_9kiw)
 - [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/) :carrot:
 - [Cake salé à l'ail des ours](https://www.lacuisinedebernard.com/2021/04/cake-sale-a-lail-des-ours.html)
@@ -70,19 +71,18 @@
 - [Gougères au fromage](https://youtu.be/jiNsg9XqrrM) :carrot:
 - [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
 - [Pâtes épinards et petits pois](https://www.youtube.com/watch?v=hsmEEXHrzBg) :carrot: :gb:
-- [Bagel saumon et avocat](https://plaisiretequilibre.wordpress.com/2015/03/04/bagels-saumon-fume-avocat-et-sauce-ciboulette-bataille-food-21/)
 - [Lasagnes courgettes](https://piao.fr/2020/09/la-recette-du-jour-lasagnes-de-courgettes/)
-- [Clafoutis courgettes mozarella](https://piao.fr/2020/06/clafoutis-de-courgettes-mozzarella/)
+- [Clafoutis courgettes mozarella](https://piao.fr/2020/06/clafoutis-de-courgettes-mozzarella/) :carrot:
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU1MTY3MDY2LDE4MzkwNTI0NTgsLTExMT
-AzMzk5NzcsLTE3OTMxNzMxMTQsMTE1NzcyOTA1MiwxMzUzMTMz
-MzgxLDk1NzY0NjAsMTkzMDcxNzkxNywtMzQyMzg4NjA2LDEzND
-E2Njk4ODcsLTE3MjYzNTM4NDMsLTIzMTY0NTkxMSwxOTYzMzQ2
-Mjc3LC0zMTYxNTY0NDQsLTEzNzc4MTcyNjEsMTU4NTc4MDI0Ny
-wxOTk5NTI0Mzc2LC04MDc3MDk5MDQsMjU1MzI4NTEyLDE3NTk2
-NTg4OThdfQ==
+eyJoaXN0b3J5IjpbLTIxMzcwNjY0NDksNjU1MTY3MDY2LDE4Mz
+kwNTI0NTgsLTExMTAzMzk5NzcsLTE3OTMxNzMxMTQsMTE1Nzcy
+OTA1MiwxMzUzMTMzMzgxLDk1NzY0NjAsMTkzMDcxNzkxNywtMz
+QyMzg4NjA2LDEzNDE2Njk4ODcsLTE3MjYzNTM4NDMsLTIzMTY0
+NTkxMSwxOTYzMzQ2Mjc3LC0zMTYxNTY0NDQsLTEzNzc4MTcyNj
+EsMTU4NTc4MDI0NywxOTk5NTI0Mzc2LC04MDc3MDk5MDQsMjU1
+MzI4NTEyXX0=
 -->
