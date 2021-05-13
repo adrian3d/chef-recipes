@@ -18,7 +18,7 @@
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:
 - [Courge spaghetti carbonara](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Courge%20spaghetti%20carbonara.md)
-- [Croûtons maison à l'ail et aux herbes de provence](https://dubiodansmonbento.com/croutons-maison-a-lail-et-aux-herbes-de-provence/)
+- [Croûtons maison à l'ail et aux herbes de provence](https://dubiodansmonbento.com/croutons-maison-a-lail-et-aux-herbes-de-provence/) :carrot:
 - [Feuilleté chèvre épinards](https://youtu.be/Uz4iZm4nDPE) :carrot:
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
 - [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
@@ -78,7 +78,7 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDM1Nzg5NCw2NTUxNjcwNjYsMTgzOT
+eyJoaXN0b3J5IjpbMTA4ODE3MzQ5Nyw2NTUxNjcwNjYsMTgzOT
 A1MjQ1OCwtMTExMDMzOTk3NywtMTc5MzE3MzExNCwxMTU3NzI5
 MDUyLDEzNTMxMzMzODEsOTU3NjQ2MCwxOTMwNzE3OTE3LC0zND
 IzODg2MDYsMTM0MTY2OTg4NywtMTcyNjM1Mzg0MywtMjMxNjQ1
