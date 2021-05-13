@@ -11,7 +11,7 @@
 - [Salade de choux rouge](https://www.youtube.com/watch?v=r3Gd2CNBmxk&list=PLTuTOLdBdcWEYV0Lo_UtOZVg3x-7Cd2FP&index=12) :carrot:
 
 ### Plats principaux
-- [Bagel saumon et avocat](https://plaisiretequilibre.wordpress.com/2015/03/04/bagels-saumon-fume-avocat-et-sauce-ciboulette-bataille-food-21/) :carrot:
+- [Bagel saumon et avocat](https://plaisiretequilibre.wordpress.com/2015/03/04/bagels-saumon-fume-avocat-et-sauce-ciboulette-bataille-food-21/)
 - [Blanquette végétarienne](https://www.youtube.com/watch?v=gMnfNY_9kiw)
 - [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/) :carrot:
 - [Cake salé à l'ail des ours](https://www.lacuisinedebernard.com/2021/04/cake-sale-a-lail-des-ours.html)
@@ -78,11 +78,11 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4ODE3MzQ5Nyw2NTUxNjcwNjYsMTgzOT
-A1MjQ1OCwtMTExMDMzOTk3NywtMTc5MzE3MzExNCwxMTU3NzI5
-MDUyLDEzNTMxMzMzODEsOTU3NjQ2MCwxOTMwNzE3OTE3LC0zND
-IzODg2MDYsMTM0MTY2OTg4NywtMTcyNjM1Mzg0MywtMjMxNjQ1
-OTExLDE5NjMzNDYyNzcsLTMxNjE1NjQ0NCwtMTM3NzgxNzI2MS
-wxNTg1NzgwMjQ3LDE5OTk1MjQzNzYsLTgwNzcwOTkwNCwyNTUz
-Mjg1MTJdfQ==
+eyJoaXN0b3J5IjpbLTE1NzEyMzA0NjYsMTA4ODE3MzQ5Nyw2NT
+UxNjcwNjYsMTgzOTA1MjQ1OCwtMTExMDMzOTk3NywtMTc5MzE3
+MzExNCwxMTU3NzI5MDUyLDEzNTMxMzMzODEsOTU3NjQ2MCwxOT
+MwNzE3OTE3LC0zNDIzODg2MDYsMTM0MTY2OTg4NywtMTcyNjM1
+Mzg0MywtMjMxNjQ1OTExLDE5NjMzNDYyNzcsLTMxNjE1NjQ0NC
+wtMTM3NzgxNzI2MSwxNTg1NzgwMjQ3LDE5OTk1MjQzNzYsLTgw
+NzcwOTkwNF19
 -->
