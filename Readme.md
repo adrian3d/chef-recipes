@@ -73,16 +73,17 @@
 - [Pâtes épinards et petits pois](https://www.youtube.com/watch?v=hsmEEXHrzBg) :carrot: :gb:
 - [Lasagnes courgettes](https://piao.fr/2020/09/la-recette-du-jour-lasagnes-de-courgettes/)
 - [Clafoutis courgettes mozarella](https://piao.fr/2020/06/clafoutis-de-courgettes-mozzarella/) :carrot:
+- [Tarte à la rhubarbe et au fromage](https://chicfrigosansfric.com/recettes/cuisiner-rhubarbe-autrement)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzEyMzA0NjYsMTA4ODE3MzQ5Nyw2NT
-UxNjcwNjYsMTgzOTA1MjQ1OCwtMTExMDMzOTk3NywtMTc5MzE3
-MzExNCwxMTU3NzI5MDUyLDEzNTMxMzMzODEsOTU3NjQ2MCwxOT
-MwNzE3OTE3LC0zNDIzODg2MDYsMTM0MTY2OTg4NywtMTcyNjM1
-Mzg0MywtMjMxNjQ1OTExLDE5NjMzNDYyNzcsLTMxNjE1NjQ0NC
-wtMTM3NzgxNzI2MSwxNTg1NzgwMjQ3LDE5OTk1MjQzNzYsLTgw
-NzcwOTkwNF19
+eyJoaXN0b3J5IjpbMzU2NTAxNDM0LDEwODgxNzM0OTcsNjU1MT
+Y3MDY2LDE4MzkwNTI0NTgsLTExMTAzMzk5NzcsLTE3OTMxNzMx
+MTQsMTE1NzcyOTA1MiwxMzUzMTMzMzgxLDk1NzY0NjAsMTkzMD
+cxNzkxNywtMzQyMzg4NjA2LDEzNDE2Njk4ODcsLTE3MjYzNTM4
+NDMsLTIzMTY0NTkxMSwxOTYzMzQ2Mjc3LC0zMTYxNTY0NDQsLT
+EzNzc4MTcyNjEsMTU4NTc4MDI0NywxOTk5NTI0Mzc2LC04MDc3
+MDk5MDRdfQ==
 -->
