@@ -78,13 +78,13 @@
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
-- [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever)
+- [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAxNDQzNjgsLTE5MDI5ODg1NTcsMT
-A4ODE3MzQ5Nyw2NTUxNjcwNjYsMTgzOTA1MjQ1OCwtMTExMDMz
-OTk3NywtMTc5MzE3MzExNCwxMTU3NzI5MDUyLDEzNTMxMzMzOD
-EsOTU3NjQ2MCwxOTMwNzE3OTE3LC0zNDIzODg2MDYsMTM0MTY2
-OTg4NywtMTcyNjM1Mzg0MywtMjMxNjQ1OTExLDE5NjMzNDYyNz
-csLTMxNjE1NjQ0NCwtMTM3NzgxNzI2MSwxNTg1NzgwMjQ3LDE5
-OTk1MjQzNzZdfQ==
+eyJoaXN0b3J5IjpbMTAyNTc1MTQyMywtMTkwMjk4ODU1NywxMD
+g4MTczNDk3LDY1NTE2NzA2NiwxODM5MDUyNDU4LC0xMTEwMzM5
+OTc3LC0xNzkzMTczMTE0LDExNTc3MjkwNTIsMTM1MzEzMzM4MS
+w5NTc2NDYwLDE5MzA3MTc5MTcsLTM0MjM4ODYwNiwxMzQxNjY5
+ODg3LC0xNzI2MzUzODQzLC0yMzE2NDU5MTEsMTk2MzM0NjI3Ny
+wtMzE2MTU2NDQ0LC0xMzc3ODE3MjYxLDE1ODU3ODAyNDcsMTk5
+OTUyNDM3Nl19
 -->
