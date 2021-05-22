@@ -26,7 +26,7 @@
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
 - [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot: :gb:
 - [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx) :carrot:
-- [Gyozas végétariens](https://youcookcuisine.com/recette/gyozas-vegetariens/)
+- [Gyozas végétariens](https://youcookcuisine.com/recette/gyozas-vegetariens/) :carrot:
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
 - [Lasagnes végétariennes](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
