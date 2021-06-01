@@ -75,7 +75,7 @@
 - [Pâtes épinards et petits pois](https://www.youtube.com/watch?v=hsmEEXHrzBg) :carrot: :gb:
 - [Lasagnes courgettes](https://piao.fr/2020/09/la-recette-du-jour-lasagnes-de-courgettes/)
 - [Salade de fèves et poivrons aux herbes](https://www.papillesetpupilles.fr/2010/05/salade-de-feves-et-poivrons-aux-herbes.html/) :carrot:
-- [Tarte ricotta, oignons et rhubarbe](https://magazine.laruchequiditoui.fr/la-rhubarbe-a-pile-ou-face/)
+- [Tarte ricotta, oignons et rhubarbe](https://magazine.laruchequiditoui.fr/la-rhubarbe-a-pile-ou-face/) :carrot:
 
 
 ## Guides
@@ -83,11 +83,11 @@
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 - [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzQ2MjI2Niw2MjAyMTEzNiwxMDI1Nz
-UxNDIzLC0xOTAyOTg4NTU3LDEwODgxNzM0OTcsNjU1MTY3MDY2
-LDE4MzkwNTI0NTgsLTExMTAzMzk5NzcsLTE3OTMxNzMxMTQsMT
-E1NzcyOTA1MiwxMzUzMTMzMzgxLDk1NzY0NjAsMTkzMDcxNzkx
-NywtMzQyMzg4NjA2LDEzNDE2Njk4ODcsLTE3MjYzNTM4NDMsLT
-IzMTY0NTkxMSwxOTYzMzQ2Mjc3LC0zMTYxNTY0NDQsLTEzNzc4
-MTcyNjFdfQ==
+eyJoaXN0b3J5IjpbLTExNzExMTc2NTEsNjIwMjExMzYsMTAyNT
+c1MTQyMywtMTkwMjk4ODU1NywxMDg4MTczNDk3LDY1NTE2NzA2
+NiwxODM5MDUyNDU4LC0xMTEwMzM5OTc3LC0xNzkzMTczMTE0LD
+ExNTc3MjkwNTIsMTM1MzEzMzM4MSw5NTc2NDYwLDE5MzA3MTc5
+MTcsLTM0MjM4ODYwNiwxMzQxNjY5ODg3LC0xNzI2MzUzODQzLC
+0yMzE2NDU5MTEsMTk2MzM0NjI3NywtMzE2MTU2NDQ0LC0xMzc3
+ODE3MjYxXX0=
 -->
