@@ -76,7 +76,6 @@
 - [Lasagnes courgettes](https://piao.fr/2020/09/la-recette-du-jour-lasagnes-de-courgettes/)
 - [Salade de fèves et poivrons aux herbes](https://www.papillesetpupilles.fr/2010/05/salade-de-feves-et-poivrons-aux-herbes.html/) :carrot:
 - [Tarte ricotta, oignons et rhubarbe](https://magazine.laruchequiditoui.fr/la-rhubarbe-a-pile-ou-face/) :carrot:
-- [Pâtes au pesto et cacahuètes grillées](https://www.marieclaire.fr/cuisine/pates-au-pesto,1194401.asp) :carrot:
 
 
 ## Guides
@@ -84,11 +83,11 @@
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 - [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDYxNzg2LC0xMTcxMTE3NjUxLDYyMD
-IxMTM2LDEwMjU3NTE0MjMsLTE5MDI5ODg1NTcsMTA4ODE3MzQ5
-Nyw2NTUxNjcwNjYsMTgzOTA1MjQ1OCwtMTExMDMzOTk3NywtMT
-c5MzE3MzExNCwxMTU3NzI5MDUyLDEzNTMxMzMzODEsOTU3NjQ2
-MCwxOTMwNzE3OTE3LC0zNDIzODg2MDYsMTM0MTY2OTg4NywtMT
-cyNjM1Mzg0MywtMjMxNjQ1OTExLDE5NjMzNDYyNzcsLTMxNjE1
-NjQ0NF19
+eyJoaXN0b3J5IjpbLTExNzExMTc2NTEsMTUyNDYxNzg2LC0xMT
+cxMTE3NjUxLDYyMDIxMTM2LDEwMjU3NTE0MjMsLTE5MDI5ODg1
+NTcsMTA4ODE3MzQ5Nyw2NTUxNjcwNjYsMTgzOTA1MjQ1OCwtMT
+ExMDMzOTk3NywtMTc5MzE3MzExNCwxMTU3NzI5MDUyLDEzNTMx
+MzMzODEsOTU3NjQ2MCwxOTMwNzE3OTE3LC0zNDIzODg2MDYsMT
+M0MTY2OTg4NywtMTcyNjM1Mzg0MywtMjMxNjQ1OTExLDE5NjMz
+NDYyNzddfQ==
 -->
