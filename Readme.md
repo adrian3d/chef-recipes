@@ -77,7 +77,7 @@
 - [Lasagnes courgettes](https://piao.fr/2020/09/la-recette-du-jour-lasagnes-de-courgettes/)
 - [Salade de fèves et poivrons aux herbes](https://www.papillesetpupilles.fr/2010/05/salade-de-feves-et-poivrons-aux-herbes.html/) :carrot:
 - [Tarte ricotta, oignons et rhubarbe](https://magazine.laruchequiditoui.fr/la-rhubarbe-a-pile-ou-face/) :carrot:
-- [Caviar d'aubergines et de champignons](https://cuisine.land/les-recettes-favotites-de-basanda-and-mummy/8008-recette-caviar-d-aubergine-aux-champignons.html)
+- [Caviar d'aubergines et de champignons](https://cuisine.land/les-recettes-favotites-de-basanda-and-mummy/8008-recette-caviar-d-aubergine-aux-champignons.html) :carrot:
 - [Raviolis aux cèpes](https://www.cuisineactuelle.fr/recettes/raviolis-aux-cepes-sauce-foie-gras-198907)
 
 
@@ -86,7 +86,7 @@
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 - [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0Nzc3MjkzNSwtMTE3MTExNzY1MSwxNT
+eyJoaXN0b3J5IjpbMjA1MjI1MzEzNCwtMTE3MTExNzY1MSwxNT
 I0NjE3ODYsNjIwMjExMzYsMTAyNTc1MTQyMywtMTkwMjk4ODU1
 NywxMDg4MTczNDk3LDY1NTE2NzA2NiwxODM5MDUyNDU4LC0xMT
 EwMzM5OTc3LC0xNzkzMTczMTE0LDExNTc3MjkwNTIsMTM1MzEz
