@@ -79,6 +79,7 @@
 - [Tarte ricotta, oignons et rhubarbe](https://magazine.laruchequiditoui.fr/la-rhubarbe-a-pile-ou-face/) :carrot:
 - [Caviar d'aubergines et de champignons](https://cuisine.land/les-recettes-favotites-de-basanda-and-mummy/8008-recette-caviar-d-aubergine-aux-champignons.html) :carrot:
 - [Raviolis aux cèpes](https://www.cuisineactuelle.fr/recettes/raviolis-aux-cepes-sauce-foie-gras-198907)
+- [Toast crevettes et Wraps oeuf et épinards épicés](https://www.youtube.com/watch?v=0KAS_d2vQLU)
 
 
 ## Guides
@@ -86,11 +87,11 @@
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 - [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjI1MzEzNCwtMTE3MTExNzY1MSwxNT
-I0NjE3ODYsNjIwMjExMzYsMTAyNTc1MTQyMywtMTkwMjk4ODU1
-NywxMDg4MTczNDk3LDY1NTE2NzA2NiwxODM5MDUyNDU4LC0xMT
-EwMzM5OTc3LC0xNzkzMTczMTE0LDExNTc3MjkwNTIsMTM1MzEz
-MzM4MSw5NTc2NDYwLDE5MzA3MTc5MTcsLTM0MjM4ODYwNiwxMz
-QxNjY5ODg3LC0xNzI2MzUzODQzLC0yMzE2NDU5MTEsMTk2MzM0
-NjI3N119
+eyJoaXN0b3J5IjpbLTE5NDY5ODQ5OTEsMjA1MjI1MzEzNCwtMT
+E3MTExNzY1MSwxNTI0NjE3ODYsNjIwMjExMzYsMTAyNTc1MTQy
+MywtMTkwMjk4ODU1NywxMDg4MTczNDk3LDY1NTE2NzA2NiwxOD
+M5MDUyNDU4LC0xMTEwMzM5OTc3LC0xNzkzMTczMTE0LDExNTc3
+MjkwNTIsMTM1MzEzMzM4MSw5NTc2NDYwLDE5MzA3MTc5MTcsLT
+M0MjM4ODYwNiwxMzQxNjY5ODg3LC0xNzI2MzUzODQzLC0yMzE2
+NDU5MTFdfQ==
 -->
