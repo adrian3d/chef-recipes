@@ -32,6 +32,7 @@
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
 - [Nems végétariens](https://www.cuisineaz.com/recettes/nems-vegetariens-101320.aspx) :carrot: *Remplacer la protéine de soja par du tofu fumé et préférer du gimgembre en racine plutôt qu'en poudre
 - [Oeufs mayonnaise - la recette de Gwilherm de Cerval](https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/06/l-uf-mayonnaise-la-recette-de-gwilherm-de-cerval_6032062_5324493.html) :carrot:
+- [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/) :carrot:
 - [Pâtes aux champignons et aux poireaux](https://youtu.be/H6r65SHkpVs?t=507) 🥕 :gb:
 - [Pâtes au citron](https://prettysimplesweet.com/lemon-cilantro-pasta/) :carrot: :gb:
 - [Pâtes au saumon](https://youtu.be/z8Yrwb-05Uc)
@@ -63,7 +64,6 @@
 	- Tartines de compoté de figues 🥕
 	- Boeuf bourguignon like
 	- Burrata🥕
-- [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/) :carrot:
 - [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/) :carrot:
 - [Galettes courgette et jambon](https://magazine.laruchequiditoui.fr/legumologie/pique-nique-galettes-courgettes/)
 - [Galettes de courge spaghetti](https://www.ptitchef.com/recettes/entree/galettes-de-courge-spaghetti-aux-oignons-et-fromage-fid-553177) :carrot:
@@ -88,11 +88,11 @@
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 - [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3OTM2ODgyOCwtMTk0Njk4NDk5MSwyMD
-UyMjUzMTM0LC0xMTcxMTE3NjUxLDE1MjQ2MTc4Niw2MjAyMTEz
-NiwxMDI1NzUxNDIzLC0xOTAyOTg4NTU3LDEwODgxNzM0OTcsNj
-U1MTY3MDY2LDE4MzkwNTI0NTgsLTExMTAzMzk5NzcsLTE3OTMx
-NzMxMTQsMTE1NzcyOTA1MiwxMzUzMTMzMzgxLDk1NzY0NjAsMT
-kzMDcxNzkxNywtMzQyMzg4NjA2LDEzNDE2Njk4ODcsLTE3MjYz
-NTM4NDNdfQ==
+eyJoaXN0b3J5IjpbLTE0Nzk2MDgzMzIsLTE5NDY5ODQ5OTEsMj
+A1MjI1MzEzNCwtMTE3MTExNzY1MSwxNTI0NjE3ODYsNjIwMjEx
+MzYsMTAyNTc1MTQyMywtMTkwMjk4ODU1NywxMDg4MTczNDk3LD
+Y1NTE2NzA2NiwxODM5MDUyNDU4LC0xMTEwMzM5OTc3LC0xNzkz
+MTczMTE0LDExNTc3MjkwNTIsMTM1MzEzMzM4MSw5NTc2NDYwLD
+E5MzA3MTc5MTcsLTM0MjM4ODYwNiwxMzQxNjY5ODg3LC0xNzI2
+MzUzODQzXX0=
 -->
