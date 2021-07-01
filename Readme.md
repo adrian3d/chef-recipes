@@ -80,7 +80,7 @@
 - [Caviar d'aubergines et de champignons](https://cuisine.land/les-recettes-favotites-de-basanda-and-mummy/8008-recette-caviar-d-aubergine-aux-champignons.html) :carrot:
 - [Raviolis aux cèpes](https://www.cuisineactuelle.fr/recettes/raviolis-aux-cepes-sauce-foie-gras-198907)
 - [Toast crevettes et Wraps oeuf et épinards épicés](https://www.youtube.com/watch?v=0KAS_d2vQLU)
-- [Timbales de courgettes au bruccio](https://www.facebook.com/Solembio45/photos/a.667718136653392/4064787506946421/)
+- [Timbales de courgettes au bruccio](https://www.facebook.com/Solembio45/photos/a.667718136653392/4064787506946421/) :carrot:
 
 
 ## Guides
@@ -88,11 +88,11 @@
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 - [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzk2MDgzMzIsLTE5NDY5ODQ5OTEsMj
-A1MjI1MzEzNCwtMTE3MTExNzY1MSwxNTI0NjE3ODYsNjIwMjEx
-MzYsMTAyNTc1MTQyMywtMTkwMjk4ODU1NywxMDg4MTczNDk3LD
-Y1NTE2NzA2NiwxODM5MDUyNDU4LC0xMTEwMzM5OTc3LC0xNzkz
-MTczMTE0LDExNTc3MjkwNTIsMTM1MzEzMzM4MSw5NTc2NDYwLD
-E5MzA3MTc5MTcsLTM0MjM4ODYwNiwxMzQxNjY5ODg3LC0xNzI2
-MzUzODQzXX0=
+eyJoaXN0b3J5IjpbLTM4MzA1NTM2MSwtMTk0Njk4NDk5MSwyMD
+UyMjUzMTM0LC0xMTcxMTE3NjUxLDE1MjQ2MTc4Niw2MjAyMTEz
+NiwxMDI1NzUxNDIzLC0xOTAyOTg4NTU3LDEwODgxNzM0OTcsNj
+U1MTY3MDY2LDE4MzkwNTI0NTgsLTExMTAzMzk5NzcsLTE3OTMx
+NzMxMTQsMTE1NzcyOTA1MiwxMzUzMTMzMzgxLDk1NzY0NjAsMT
+kzMDcxNzkxNywtMzQyMzg4NjA2LDEzNDE2Njk4ODcsLTE3MjYz
+NTM4NDNdfQ==
 -->
