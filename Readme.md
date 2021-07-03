@@ -81,6 +81,7 @@
 - [Raviolis aux cèpes](https://www.cuisineactuelle.fr/recettes/raviolis-aux-cepes-sauce-foie-gras-198907)
 - [Toast crevettes et Wraps oeuf et épinards épicés](https://www.youtube.com/watch?v=0KAS_d2vQLU)
 - [Timbales de courgettes au bruccio](https://www.facebook.com/Solembio45/photos/a.667718136653392/4064787506946421/) :carrot:
+- [Soupe Gingembre Carottes Miel](https://chefsimon.com/gourmets/radisrose/recettes/soupe-de-carotte-miel-gingembre)
 
 
 ## Guides
