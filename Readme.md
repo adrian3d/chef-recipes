@@ -83,6 +83,7 @@
 - [Timbales de courgettes au bruccio](https://www.facebook.com/Solembio45/photos/a.667718136653392/4064787506946421/) :carrot:
 - [Soupe Gingembre Carottes Miel](https://chefsimon.com/gourmets/radisrose/recettes/soupe-de-carotte-miel-gingembre)
 - [Toum](https://www.youtube.com/watch?v=zTw6-q2TrdY)
+- [Poulet aigre-doux](https://cuisine.journaldesfemmes.fr/recette/318040-poulet-a-l-ananas-sauce-aigre-douce)
 
 
 ## Guides
