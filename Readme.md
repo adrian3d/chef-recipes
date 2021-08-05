@@ -84,7 +84,7 @@
 - [Soupe Gingembre Carottes Miel](https://chefsimon.com/gourmets/radisrose/recettes/soupe-de-carotte-miel-gingembre)
 - [Toum](https://www.youtube.com/watch?v=zTw6-q2TrdY)
 - [Poulet aigre-doux](https://cuisine.journaldesfemmes.fr/recette/318040-poulet-a-l-ananas-sauce-aigre-douce)
-- [Pâte sauce shitake, patate douce et sauge](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Pates-aux-shiitakes-patate-douce-et-sauge-3729199):carot:
+- [Pâte sauce shitake, patate douce et sauge](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Pates-aux-shiitakes-patate-douce-et-sauge-3729199):carrot:
 
 
 ## Guides
@@ -92,7 +92,7 @@
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 - [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDAwNTkzMjMsLTEwNDE4MDcxMSwtMz
+eyJoaXN0b3J5IjpbLTExODU0NTI5NzMsLTEwNDE4MDcxMSwtMz
 gzMDU1MzYxLC0xOTQ2OTg0OTkxLDIwNTIyNTMxMzQsLTExNzEx
 MTc2NTEsMTUyNDYxNzg2LDYyMDIxMTM2LDEwMjU3NTE0MjMsLT
 E5MDI5ODg1NTcsMTA4ODE3MzQ5Nyw2NTUxNjcwNjYsMTgzOTA1
