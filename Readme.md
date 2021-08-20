@@ -26,6 +26,7 @@
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
 - [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot: :gb:
 - [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx) :carrot:
+- [Gougères au fromage](https://youtu.be/jiNsg9XqrrM) :carrot:
 - [Gyozas végétariens](https://youcookcuisine.com/recette/gyozas-vegetariens/) :carrot:
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
 - [Lasagnes végétariennes](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
@@ -71,7 +72,6 @@
 - [Galettes de courgettes à la japonnaise](https://magazine.laruchequiditoui.fr/legumologie/courgette-a-toutes-sauces/galettes-de-courgettes-a-japonaise/) :carrot:
 - [Kimchi ananas](https://insaneinthebrine.com/pineapple-kimchi-hotsauce/) :carrot: :gb:
 - [Kimchi mangue](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Kimchi-de-mangue-3152044) :carrot:
-- [Gougères au fromage](https://youtu.be/jiNsg9XqrrM) :carrot:
 - [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
 - [Pâtes épinards et petits pois](https://www.youtube.com/watch?v=hsmEEXHrzBg) :carrot: :gb:
 - [Lasagnes courgettes](https://piao.fr/2020/09/la-recette-du-jour-lasagnes-de-courgettes/)
@@ -92,11 +92,11 @@
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 - [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODU0NTI5NzMsLTEwNDE4MDcxMSwtMz
-gzMDU1MzYxLC0xOTQ2OTg0OTkxLDIwNTIyNTMxMzQsLTExNzEx
-MTc2NTEsMTUyNDYxNzg2LDYyMDIxMTM2LDEwMjU3NTE0MjMsLT
-E5MDI5ODg1NTcsMTA4ODE3MzQ5Nyw2NTUxNjcwNjYsMTgzOTA1
-MjQ1OCwtMTExMDMzOTk3NywtMTc5MzE3MzExNCwxMTU3NzI5MD
-UyLDEzNTMxMzMzODEsOTU3NjQ2MCwxOTMwNzE3OTE3LC0zNDIz
-ODg2MDZdfQ==
+eyJoaXN0b3J5IjpbLTE1MTU3NDYyNSwtMTE4NTQ1Mjk3MywtMT
+A0MTgwNzExLC0zODMwNTUzNjEsLTE5NDY5ODQ5OTEsMjA1MjI1
+MzEzNCwtMTE3MTExNzY1MSwxNTI0NjE3ODYsNjIwMjExMzYsMT
+AyNTc1MTQyMywtMTkwMjk4ODU1NywxMDg4MTczNDk3LDY1NTE2
+NzA2NiwxODM5MDUyNDU4LC0xMTEwMzM5OTc3LC0xNzkzMTczMT
+E0LDExNTc3MjkwNTIsMTM1MzEzMzM4MSw5NTc2NDYwLDE5MzA3
+MTc5MTddfQ==
 -->
