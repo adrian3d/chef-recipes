@@ -88,6 +88,7 @@
 - [Pâte sauce shitake, patate douce et sauge](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Pates-aux-shiitakes-patate-douce-et-sauge-3729199):carrot:
 - [Pierogis ruskie](https://lesdelicesdanais.net/2016/01/06/les-recettes-de-ma-grand-mere-les-pierogis-ruskie/) :carrot:
 - [Pâtes à la crème](https://www.femina.fr/article/julie-andrieu-devoile-la-recette-de-sa-sauce-magique-pour-des-pates-incroyablement-gourmandes)
+- [Verrines champignons Boursin](http://moi-gourmande.blogspot.com/2016/12/veloute-de-champignons-au-boursin.html?m=1)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
