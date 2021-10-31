@@ -89,6 +89,7 @@
 - [Pierogis ruskie](https://lesdelicesdanais.net/2016/01/06/les-recettes-de-ma-grand-mere-les-pierogis-ruskie/) :carrot:
 - [Pâtes à la crème](https://www.femina.fr/article/julie-andrieu-devoile-la-recette-de-sa-sauce-magique-pour-des-pates-incroyablement-gourmandes)
 - [Verrines champignons Boursin](http://moi-gourmande.blogspot.com/2016/12/veloute-de-champignons-au-boursin.html?m=1)
+- [Bolognaise végétarienne](https://github.com/adrian3d/chef-recipes) :carrot:
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
