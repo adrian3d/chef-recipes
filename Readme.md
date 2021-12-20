@@ -22,7 +22,8 @@
 - [Croûtons maison à l'ail et aux herbes de provence](https://dubiodansmonbento.com/croutons-maison-a-lail-et-aux-herbes-de-provence/) :carrot:
 - [Feuilleté chèvre épinards](https://youtu.be/Uz4iZm4nDPE) :carrot:
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
-- [Filets mignons de porc](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
+- [Filets mignons de porc au fond de veau](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
+- [Galettes de courge spaghetti](https://www.ptitchef.com/recettes/entree/galettes-de-courge-spaghetti-aux-oignons-et-fromage-fid-553177) :carrot
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
 - [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot: :gb:
 - [Gnocchis maison](https://www.cuisineaz.com/recettes/gnocchi-maison-56561.aspx) :carrot:
@@ -68,7 +69,6 @@
 	- Burrata🥕
 - [Pâtes farcies aux courgettes et à l'aillet](https://mamscook.com/2016/04/22/pates-farcies-aux-courgettes-et-a-laillet/) :carrot:
 - [Galettes courgette et jambon](https://magazine.laruchequiditoui.fr/legumologie/pique-nique-galettes-courgettes/)
-- [Galettes de courge spaghetti](https://www.ptitchef.com/recettes/entree/galettes-de-courge-spaghetti-aux-oignons-et-fromage-fid-553177) :carrot:
 - [Gyozas végétariens (Recette alternative)](https://biancazapatka.com/en/vegetable-dumplings-vegan-gyoza/) :carrot:
 - [Galettes de courgettes à la japonnaise](https://magazine.laruchequiditoui.fr/legumologie/courgette-a-toutes-sauces/galettes-de-courgettes-a-japonaise/) :carrot:
 - [Kimchi ananas](https://insaneinthebrine.com/pineapple-kimchi-hotsauce/) :carrot: :gb:
@@ -90,6 +90,13 @@
 - [Pâtes à la crème](https://www.femina.fr/article/julie-andrieu-devoile-la-recette-de-sa-sauce-magique-pour-des-pates-incroyablement-gourmandes)
 - [Verrines champignons Boursin](http://moi-gourmande.blogspot.com/2016/12/veloute-de-champignons-au-boursin.html?m=1)
 - [Bolognaise végétarienne](https://github.com/adrian3d/chef-recipes) :carrot:
+- [Gnocchi & Fêta au Miel](https://owiowifouettemoi.com/2021/12/07/gnocchi-feta-au-miel/) :carrot:
+- [Filet mignon de porc au cidre et mélange de champignons forestiers](https://lespetitsplatsdechristopher.com/2021/05/09/filet-mignon-sauce-au-cidre-et-melange-de-champignons-forestiers/)
+- [Tartare saumon avocat mangue et tuile au parmesan](https://cuisine.journaldesfemmes.fr/recette/356652-tartare-saumon-avocat-mangue-et-tuile-au-parmesan) :carrot:
+- [Tarte rustique oignons, raclette et moutarde](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-rustique-oignons-raclette-et-moutarde-3752853) :carrot:
+- [Tarte mozzarella-champignons](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-mozzarella-champignons-3888132) :carrot:
+- [Berthoud](https://www.papillesetpupilles.fr/2021/11/berthoud-un-plat-haut-savoyard-au-fromage-abondance.html/) :carrot:
+- [Aubergines sucrée-salée rôties au sirop d’érable et graines de sésame](https://madame.lefigaro.fr/recettes/aubergines-roties-au-sirop-derable-guacamole-sesame-181218-162669) :carrot:
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
