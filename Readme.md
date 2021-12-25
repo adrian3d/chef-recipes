@@ -102,6 +102,11 @@
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
 - [La physique de la cuisson de la pizza](https://arxiv.org/ftp/arxiv/papers/1806/1806.08790.pdf) :gb:
 - [Comment faire les meilleurs pommes de terres rôties](https://www.seriouseats.com/the-food-lab-the-best-roast-potatoes-ever) :gb:
+
+## Se fournir
+
+- [Robert freudenreich (leur Gewurztraminer est ouf)](http://www.robert-freudenreich-et-fils.com/)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTk3MzUyODEwOSwtMTUxNTc0NjI1LC0xMT
 g1NDUyOTczLC0xMDQxODA3MTEsLTM4MzA1NTM2MSwtMTk0Njk4
