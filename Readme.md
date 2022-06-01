@@ -11,6 +11,7 @@
 - [Salade de choux rouge](https://www.youtube.com/watch?v=r3Gd2CNBmxk&list=PLTuTOLdBdcWEYV0Lo_UtOZVg3x-7Cd2FP&index=12) :carrot:
 
 ### Plats principaux
+- [Aubergines sucrée-salée rôties au sirop d’érable et graines de sésame](https://madame.lefigaro.fr/recettes/aubergines-roties-au-sirop-derable-guacamole-sesame-181218-162669) :carrot:
 - [Bagel saumon et avocat](https://plaisiretequilibre.wordpress.com/2015/03/04/bagels-saumon-fume-avocat-et-sauce-ciboulette-bataille-food-21/)
 - [Blanquette végétarienne](https://www.youtube.com/watch?v=gMnfNY_9kiw)
 - [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/) :carrot:
@@ -96,7 +97,7 @@
 - [Tarte rustique oignons, raclette et moutarde](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-rustique-oignons-raclette-et-moutarde-3752853) :carrot:
 - [Tarte mozzarella-champignons](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-mozzarella-champignons-3888132) :carrot:
 - [Berthoud](https://www.papillesetpupilles.fr/2021/11/berthoud-un-plat-haut-savoyard-au-fromage-abondance.html/) :carrot:
-- [Aubergines sucrée-salée rôties au sirop d’érable et graines de sésame](https://madame.lefigaro.fr/recettes/aubergines-roties-au-sirop-derable-guacamole-sesame-181218-162669) :carrot:
+
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
@@ -108,11 +109,11 @@
 - [Robert freudenreich (leur Gewurztraminer est ouf)](http://www.robert-freudenreich-et-fils.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MzUyODEwOSwtMTUxNTc0NjI1LC0xMT
-g1NDUyOTczLC0xMDQxODA3MTEsLTM4MzA1NTM2MSwtMTk0Njk4
-NDk5MSwyMDUyMjUzMTM0LC0xMTcxMTE3NjUxLDE1MjQ2MTc4Ni
-w2MjAyMTEzNiwxMDI1NzUxNDIzLC0xOTAyOTg4NTU3LDEwODgx
-NzM0OTcsNjU1MTY3MDY2LDE4MzkwNTI0NTgsLTExMTAzMzk5Nz
-csLTE3OTMxNzMxMTQsMTE1NzcyOTA1MiwxMzUzMTMzMzgxLDk1
-NzY0NjBdfQ==
+eyJoaXN0b3J5IjpbNzgyNzUzMTUsMTk3MzUyODEwOSwtMTUxNT
+c0NjI1LC0xMTg1NDUyOTczLC0xMDQxODA3MTEsLTM4MzA1NTM2
+MSwtMTk0Njk4NDk5MSwyMDUyMjUzMTM0LC0xMTcxMTE3NjUxLD
+E1MjQ2MTc4Niw2MjAyMTEzNiwxMDI1NzUxNDIzLC0xOTAyOTg4
+NTU3LDEwODgxNzM0OTcsNjU1MTY3MDY2LDE4MzkwNTI0NTgsLT
+ExMTAzMzk5NzcsLTE3OTMxNzMxMTQsMTE1NzcyOTA1MiwxMzUz
+MTMzMzgxXX0=
 -->
