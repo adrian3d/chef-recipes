@@ -49,12 +49,14 @@
 - [Pizza d'automne à la courge butternut](https://marinmamacooks.com/2015/11/fall-roasted-vegetable-pizza/) :carrot:
 - [Poulet Tikka Massala](https://cuisine-addict.com/poulet-tikka-masala/)
 - [Quesadillas maison](https://www.youtube.com/watch?v=ILb86PTrY28) :gb: :carrot:
+- [Raviolis aux cèpes](https://www.cuisineactuelle.fr/recettes/raviolis-aux-cepes-sauce-foie-gras-198907)
 - [Raviolis chèvre épinards ricotta](https://cahierdegourmandises.fr/raviolis-epinards-ricotta/) :carrot:
 - [Risotto d'épeautre aux légumes anciens](https://www.cuisineaz.com/recettes/risotto-d-epeautre-aux-legumes-anciens-et-noisettes-95563.aspx) :carrot:
 - [Spaghetti aglio et olio](https://www.mesinspirationsculinaires.com/article-spaghetti-aglio-e-olio-pates-a-lail-et-huile-dolive.html) :carrot:
 - [Soupe à la tomate](https://www.youtube.com/watch?v=7BOOIqW9BQ4) :gb: :carrot:
 - [Soupe aux poireaux et à l'ail](http://www.lesfoodies.com/val53/recette/soupe-tomates-poireaux-a-lail) :carrot:
 - [Tagliatelles au pesto de poivron rouge](https://fr.chatelaine.com/recettes/pates-2/tagliatelles-au-pesto-de-poivron-rouge/) :carrot:
+- [Tartare saumon avocat mangue et tuile au parmesan](https://cuisine.journaldesfemmes.fr/recette/356652-tartare-saumon-avocat-mangue-et-tuile-au-parmesan) :carrot:
 - [Tarte à la rhubarbe et au fromage](https://chicfrigosansfric.com/recettes/cuisiner-rhubarbe-autrement) :carrot:
 - [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto) :carrot:
 - [Tzatziki](https://www.papillesetpupilles.fr/2020/06/le-tzatziki-de-cyril-lignac.html/) :carrot:
@@ -80,7 +82,6 @@
 - [Salade de fèves et poivrons aux herbes](https://www.papillesetpupilles.fr/2010/05/salade-de-feves-et-poivrons-aux-herbes.html/) :carrot:
 - [Tarte ricotta, oignons et rhubarbe](https://magazine.laruchequiditoui.fr/la-rhubarbe-a-pile-ou-face/) :carrot:
 - [Caviar d'aubergines et de champignons](https://cuisine.land/les-recettes-favotites-de-basanda-and-mummy/8008-recette-caviar-d-aubergine-aux-champignons.html) :carrot:
-- [Raviolis aux cèpes](https://www.cuisineactuelle.fr/recettes/raviolis-aux-cepes-sauce-foie-gras-198907)
 - [Toast crevettes et Wraps oeuf et épinards épicés](https://www.youtube.com/watch?v=0KAS_d2vQLU)
 - [Timbales de courgettes au bruccio](https://www.facebook.com/Solembio45/photos/a.667718136653392/4064787506946421/) :carrot:
 - [Soupe Gingembre Carottes Miel](https://chefsimon.com/gourmets/radisrose/recettes/soupe-de-carotte-miel-gingembre)
@@ -93,11 +94,8 @@
 - [Bolognaise végétarienne](https://github.com/adrian3d/chef-recipes) :carrot:
 - [Gnocchi & Fêta au Miel](https://owiowifouettemoi.com/2021/12/07/gnocchi-feta-au-miel/) :carrot:
 - [Filet mignon de porc au cidre et mélange de champignons forestiers](https://lespetitsplatsdechristopher.com/2021/05/09/filet-mignon-sauce-au-cidre-et-melange-de-champignons-forestiers/)
-- [Tartare saumon avocat mangue et tuile au parmesan](https://cuisine.journaldesfemmes.fr/recette/356652-tartare-saumon-avocat-mangue-et-tuile-au-parmesan) :carrot:
 - [Tarte rustique oignons, raclette et moutarde](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-rustique-oignons-raclette-et-moutarde-3752853) :carrot:
 - [Tarte mozzarella-champignons](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-mozzarella-champignons-3888132) :carrot:
-- [Berthoud](https://www.papillesetpupilles.fr/2021/11/berthoud-un-plat-haut-savoyard-au-fromage-abondance.html/) :carrot:
-
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
@@ -109,11 +107,11 @@
 - [Robert freudenreich (leur Gewurztraminer est ouf)](http://www.robert-freudenreich-et-fils.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgyNzUzMTUsMTk3MzUyODEwOSwtMTUxNT
-c0NjI1LC0xMTg1NDUyOTczLC0xMDQxODA3MTEsLTM4MzA1NTM2
-MSwtMTk0Njk4NDk5MSwyMDUyMjUzMTM0LC0xMTcxMTE3NjUxLD
-E1MjQ2MTc4Niw2MjAyMTEzNiwxMDI1NzUxNDIzLC0xOTAyOTg4
-NTU3LDEwODgxNzM0OTcsNjU1MTY3MDY2LDE4MzkwNTI0NTgsLT
-ExMTAzMzk5NzcsLTE3OTMxNzMxMTQsMTE1NzcyOTA1MiwxMzUz
-MTMzMzgxXX0=
+eyJoaXN0b3J5IjpbMTk0Njg4MzM4MSw3ODI3NTMxNSwxOTczNT
+I4MTA5LC0xNTE1NzQ2MjUsLTExODU0NTI5NzMsLTEwNDE4MDcx
+MSwtMzgzMDU1MzYxLC0xOTQ2OTg0OTkxLDIwNTIyNTMxMzQsLT
+ExNzExMTc2NTEsMTUyNDYxNzg2LDYyMDIxMTM2LDEwMjU3NTE0
+MjMsLTE5MDI5ODg1NTcsMTA4ODE3MzQ5Nyw2NTUxNjcwNjYsMT
+gzOTA1MjQ1OCwtMTExMDMzOTk3NywtMTc5MzE3MzExNCwxMTU3
+NzI5MDUyXX0=
 -->
