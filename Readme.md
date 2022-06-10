@@ -96,6 +96,7 @@
 - [Filet mignon de porc au cidre et mélange de champignons forestiers](https://lespetitsplatsdechristopher.com/2021/05/09/filet-mignon-sauce-au-cidre-et-melange-de-champignons-forestiers/)
 - [Tarte rustique oignons, raclette et moutarde](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-rustique-oignons-raclette-et-moutarde-3752853) :carrot:
 - [Tarte mozzarella-champignons](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-mozzarella-champignons-3888132) :carrot:
+- [Chutney aux poivrons, gingembre et menthe](https://www.ptitchef.com/recettes/autre/chutney-aux-poivrons-gingembre-et-menthe-fid-13045)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
@@ -107,11 +108,11 @@
 - [Robert freudenreich (leur Gewurztraminer est ouf)](http://www.robert-freudenreich-et-fils.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTE0MTA0OSw3ODI3NTMxNSwxOTczNT
-I4MTA5LC0xNTE1NzQ2MjUsLTExODU0NTI5NzMsLTEwNDE4MDcx
-MSwtMzgzMDU1MzYxLC0xOTQ2OTg0OTkxLDIwNTIyNTMxMzQsLT
-ExNzExMTc2NTEsMTUyNDYxNzg2LDYyMDIxMTM2LDEwMjU3NTE0
-MjMsLTE5MDI5ODg1NTcsMTA4ODE3MzQ5Nyw2NTUxNjcwNjYsMT
-gzOTA1MjQ1OCwtMTExMDMzOTk3NywtMTc5MzE3MzExNCwxMTU3
-NzI5MDUyXX0=
+eyJoaXN0b3J5IjpbLTU1NzY4OTA2OSwxOTQ1MTQxMDQ5LDc4Mj
+c1MzE1LDE5NzM1MjgxMDksLTE1MTU3NDYyNSwtMTE4NTQ1Mjk3
+MywtMTA0MTgwNzExLC0zODMwNTUzNjEsLTE5NDY5ODQ5OTEsMj
+A1MjI1MzEzNCwtMTE3MTExNzY1MSwxNTI0NjE3ODYsNjIwMjEx
+MzYsMTAyNTc1MTQyMywtMTkwMjk4ODU1NywxMDg4MTczNDk3LD
+Y1NTE2NzA2NiwxODM5MDUyNDU4LC0xMTEwMzM5OTc3LC0xNzkz
+MTczMTE0XX0=
 -->
