@@ -97,6 +97,7 @@
 - [Tarte rustique oignons, raclette et moutarde](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-rustique-oignons-raclette-et-moutarde-3752853) :carrot:
 - [Tarte mozzarella-champignons](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Tarte-mozzarella-champignons-3888132) :carrot:
 - [Chutney aux poivrons, gingembre et menthe](https://www.ptitchef.com/recettes/autre/chutney-aux-poivrons-gingembre-et-menthe-fid-13045)
+- [Tamago](https://ohmonbento.com/ajitsuke-tamago-les-oeufs-pour-ramen/) :carrot:
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
@@ -108,11 +109,11 @@
 - [Robert freudenreich (leur Gewurztraminer est ouf)](http://www.robert-freudenreich-et-fils.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1NzY4OTA2OSwxOTQ1MTQxMDQ5LDc4Mj
-c1MzE1LDE5NzM1MjgxMDksLTE1MTU3NDYyNSwtMTE4NTQ1Mjk3
-MywtMTA0MTgwNzExLC0zODMwNTUzNjEsLTE5NDY5ODQ5OTEsMj
-A1MjI1MzEzNCwtMTE3MTExNzY1MSwxNTI0NjE3ODYsNjIwMjEx
-MzYsMTAyNTc1MTQyMywtMTkwMjk4ODU1NywxMDg4MTczNDk3LD
-Y1NTE2NzA2NiwxODM5MDUyNDU4LC0xMTEwMzM5OTc3LC0xNzkz
-MTczMTE0XX0=
+eyJoaXN0b3J5IjpbLTExNjM3NDIyNDcsLTU1NzY4OTA2OSwxOT
+Q1MTQxMDQ5LDc4Mjc1MzE1LDE5NzM1MjgxMDksLTE1MTU3NDYy
+NSwtMTE4NTQ1Mjk3MywtMTA0MTgwNzExLC0zODMwNTUzNjEsLT
+E5NDY5ODQ5OTEsMjA1MjI1MzEzNCwtMTE3MTExNzY1MSwxNTI0
+NjE3ODYsNjIwMjExMzYsMTAyNTc1MTQyMywtMTkwMjk4ODU1Ny
+wxMDg4MTczNDk3LDY1NTE2NzA2NiwxODM5MDUyNDU4LC0xMTEw
+MzM5OTc3XX0=
 -->
