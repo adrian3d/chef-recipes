@@ -90,7 +90,7 @@
 - [Pâte sauce shitake, patate douce et sauge](https://www.elle.fr/Elle-a-Table/Recettes-de-cuisine/Pates-aux-shiitakes-patate-douce-et-sauge-3729199):carrot:
 - [Pierogis ruskie](https://lesdelicesdanais.net/2016/01/06/les-recettes-de-ma-grand-mere-les-pierogis-ruskie/) :carrot:
 - [Pâtes à la crème](https://www.femina.fr/article/julie-andrieu-devoile-la-recette-de-sa-sauce-magique-pour-des-pates-incroyablement-gourmandes)
-- [Verrines champignons Boursin](http://moi-gourmande.blogspot.com/2016/12/veloute-de-champignons-au-boursin.html?m=1)
+- [Verrines champignons Boursin](https://www.moigourmande.com/veloute-de-champignons-au-boursin/)
 - [Bolognaise végétarienne](https://github.com/adrian3d/chef-recipes) :carrot:
 - [Gnocchi & Fêta au Miel](https://owiowifouettemoi.com/2021/12/07/gnocchi-feta-au-miel/) :carrot:
 - [Filet mignon de porc au cidre et mélange de champignons forestiers](https://lespetitsplatsdechristopher.com/2021/05/09/filet-mignon-sauce-au-cidre-et-melange-de-champignons-forestiers/)
@@ -111,11 +111,11 @@
 - [Robert freudenreich (leur Gewurztraminer est ouf)](http://www.robert-freudenreich-et-fils.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMTg5ODU4MCwzMjgzOTc5MTksLTExNj
-M3NDIyNDcsLTU1NzY4OTA2OSwxOTQ1MTQxMDQ5LDc4Mjc1MzE1
-LDE5NzM1MjgxMDksLTE1MTU3NDYyNSwtMTE4NTQ1Mjk3MywtMT
-A0MTgwNzExLC0zODMwNTUzNjEsLTE5NDY5ODQ5OTEsMjA1MjI1
-MzEzNCwtMTE3MTExNzY1MSwxNTI0NjE3ODYsNjIwMjExMzYsMT
-AyNTc1MTQyMywtMTkwMjk4ODU1NywxMDg4MTczNDk3LDY1NTE2
-NzA2Nl19
+eyJoaXN0b3J5IjpbMTYyMjc4NDAwNSwxNTMxODk4NTgwLDMyOD
+M5NzkxOSwtMTE2Mzc0MjI0NywtNTU3Njg5MDY5LDE5NDUxNDEw
+NDksNzgyNzUzMTUsMTk3MzUyODEwOSwtMTUxNTc0NjI1LC0xMT
+g1NDUyOTczLC0xMDQxODA3MTEsLTM4MzA1NTM2MSwtMTk0Njk4
+NDk5MSwyMDUyMjUzMTM0LC0xMTcxMTE3NjUxLDE1MjQ2MTc4Ni
+w2MjAyMTEzNiwxMDI1NzUxNDIzLC0xOTAyOTg4NTU3LDEwODgx
+NzM0OTddfQ==
 -->
