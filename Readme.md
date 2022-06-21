@@ -99,6 +99,7 @@
 - [Chutney aux poivrons, gingembre et menthe](https://www.ptitchef.com/recettes/autre/chutney-aux-poivrons-gingembre-et-menthe-fid-13045) :carrot:
 - [Tamago](https://ohmonbento.com/ajitsuke-tamago-les-oeufs-pour-ramen/) :carrot:
 - [Sorbet Melon Mangue Banane](https://www.100-vegetal.com/2016/07/3-recettes-fraiches-et-fruitees.html) :carrot:
+- [Yahourts glacés](https://www.youtube.com/watch?v=LEnr6h37e6Q) :carrot:
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
@@ -110,11 +111,11 @@
 - [Robert freudenreich (leur Gewurztraminer est ouf)](http://www.robert-freudenreich-et-fils.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEyNTU5NDEsLTExNjM3NDIyNDcsLT
-U1NzY4OTA2OSwxOTQ1MTQxMDQ5LDc4Mjc1MzE1LDE5NzM1Mjgx
-MDksLTE1MTU3NDYyNSwtMTE4NTQ1Mjk3MywtMTA0MTgwNzExLC
-0zODMwNTUzNjEsLTE5NDY5ODQ5OTEsMjA1MjI1MzEzNCwtMTE3
-MTExNzY1MSwxNTI0NjE3ODYsNjIwMjExMzYsMTAyNTc1MTQyMy
-wtMTkwMjk4ODU1NywxMDg4MTczNDk3LDY1NTE2NzA2NiwxODM5
-MDUyNDU4XX0=
+eyJoaXN0b3J5IjpbMzI4Mzk3OTE5LC0xMTYzNzQyMjQ3LC01NT
+c2ODkwNjksMTk0NTE0MTA0OSw3ODI3NTMxNSwxOTczNTI4MTA5
+LC0xNTE1NzQ2MjUsLTExODU0NTI5NzMsLTEwNDE4MDcxMSwtMz
+gzMDU1MzYxLC0xOTQ2OTg0OTkxLDIwNTIyNTMxMzQsLTExNzEx
+MTc2NTEsMTUyNDYxNzg2LDYyMDIxMTM2LDEwMjU3NTE0MjMsLT
+E5MDI5ODg1NTcsMTA4ODE3MzQ5Nyw2NTUxNjcwNjYsMTgzOTA1
+MjQ1OF19
 -->
