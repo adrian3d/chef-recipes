@@ -13,7 +13,7 @@
 ### Plats principaux
 - [Aubergines sucrée-salée rôties au sirop d’érable et graines de sésame](https://madame.lefigaro.fr/recettes/aubergines-roties-au-sirop-derable-guacamole-sesame-181218-162669) :carrot:
 - [Bagel saumon et avocat](https://plaisiretequilibre.wordpress.com/2015/03/04/bagels-saumon-fume-avocat-et-sauce-ciboulette-bataille-food-21/)
-- [Blanquette végétarienne](https://www.youtube.com/watch?v=gMnfNY_9kiw)
+- [Blanquette végétarienne](https://www.youtube.com/watch?v=gMnfNY_9kiw) :carrot:
 - [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/) :carrot:
 - [Cake salé à l'ail des ours](https://www.lacuisinedebernard.com/2021/04/cake-sale-a-lail-des-ours.html)
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
@@ -111,11 +111,11 @@
 - [Robert freudenreich (leur Gewurztraminer est ouf)](http://www.robert-freudenreich-et-fils.com/)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzI4Mzk3OTE5LC0xMTYzNzQyMjQ3LC01NT
-c2ODkwNjksMTk0NTE0MTA0OSw3ODI3NTMxNSwxOTczNTI4MTA5
-LC0xNTE1NzQ2MjUsLTExODU0NTI5NzMsLTEwNDE4MDcxMSwtMz
-gzMDU1MzYxLC0xOTQ2OTg0OTkxLDIwNTIyNTMxMzQsLTExNzEx
-MTc2NTEsMTUyNDYxNzg2LDYyMDIxMTM2LDEwMjU3NTE0MjMsLT
-E5MDI5ODg1NTcsMTA4ODE3MzQ5Nyw2NTUxNjcwNjYsMTgzOTA1
-MjQ1OF19
+eyJoaXN0b3J5IjpbMTUzMTg5ODU4MCwzMjgzOTc5MTksLTExNj
+M3NDIyNDcsLTU1NzY4OTA2OSwxOTQ1MTQxMDQ5LDc4Mjc1MzE1
+LDE5NzM1MjgxMDksLTE1MTU3NDYyNSwtMTE4NTQ1Mjk3MywtMT
+A0MTgwNzExLC0zODMwNTUzNjEsLTE5NDY5ODQ5OTEsMjA1MjI1
+MzEzNCwtMTE3MTExNzY1MSwxNTI0NjE3ODYsNjIwMjExMzYsMT
+AyNTc1MTQyMywtMTkwMjk4ODU1NywxMDg4MTczNDk3LDY1NTE2
+NzA2Nl19
 -->
