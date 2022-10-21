@@ -102,6 +102,7 @@
 - [Yahourts glacés](https://www.youtube.com/watch?v=LEnr6h37e6Q) :carrot:
 - [Tarte aux pèches et citron vert](https://www.papillesetpupilles.fr/2018/07/tarte-aux-peches-citron-vert-et-romarin-yotam-ottolenghi.html/) :carrot:
 - [Crumble pomme poire noisette chocolat au lait et praliné](https://lacuisinedebernard.com/crumble-pomme-poire-noisette-chocolat-au-lait-et-praline) :carrot: 
+- [Recette de pâte selon je pense donc je cuis](https://jepensedoncjecuis.com/2022/10/une-pate-a-tarte-rapide-et-vraiment-bonne.html)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
