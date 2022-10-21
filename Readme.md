@@ -103,6 +103,7 @@
 - [Tarte aux pèches et citron vert](https://www.papillesetpupilles.fr/2018/07/tarte-aux-peches-citron-vert-et-romarin-yotam-ottolenghi.html/) :carrot:
 - [Crumble pomme poire noisette chocolat au lait et praliné](https://lacuisinedebernard.com/crumble-pomme-poire-noisette-chocolat-au-lait-et-praline) :carrot: 
 - [Recette de pâte selon je pense donc je cuis](https://jepensedoncjecuis.com/2022/10/une-pate-a-tarte-rapide-et-vraiment-bonne.html)
+- [Colcannon, purée irlandaise](https://www.papillesetpupilles.fr/2010/10/colcannon-puree-irlandaise.html/) :carrot:
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
