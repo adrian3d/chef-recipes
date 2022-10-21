@@ -34,7 +34,7 @@
 - [Lasagnes traditionnelles](https://www.facebook.com/watch/?v=802559823575740)
 - [Lasagnes végétariennes](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
-- [Lentilles aux noisettes et au celeri](https://www.laurentmariotte.com/creme-de-lentilles-celeri-et-noisettes/) :carrot:
+- [Lentilles aux noisettes et au celeri](https://www.marmiton.org/recettes/recette_creme-de-lentilles-celeri-et-noisettes_530103.aspx) :carrot:
 - [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
 - [Nems végétariens](https://www.cuisineaz.com/recettes/nems-vegetariens-101320.aspx) :carrot: *Remplacer la protéine de soja par du tofu fumé et préférer du gimgembre en racine plutôt qu'en poudre
 - [Oeufs mayonnaise - la recette de Gwilherm de Cerval](https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/06/l-uf-mayonnaise-la-recette-de-gwilherm-de-cerval_6032062_5324493.html) :carrot:
