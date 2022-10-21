@@ -66,6 +66,7 @@
 ### Desserts
 - [Orangettes au chocolat](https://www.lemonde.fr/les-recettes-du-monde/article/2019/04/05/les-orangettes-au-chocolat-la-recette-facile-d-anne-xiradakis_5446261_5324493.html) :carrot:
 - [Tartelettes fraises-citron](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Tartelettes%20fraises-citron.md) :carrot:
+- [Yahourts glacés](https://www.youtube.com/watch?v=LEnr6h37e6Q) :carrot:
 
 ## À faire
 - [Repas italien](https://www.youtube.com/watch?v=l5F9WfVRluM)
@@ -100,7 +101,6 @@
 - [Chutney aux poivrons, gingembre et menthe](https://www.ptitchef.com/recettes/autre/chutney-aux-poivrons-gingembre-et-menthe-fid-13045) :carrot:
 - [Tamago](https://ohmonbento.com/ajitsuke-tamago-les-oeufs-pour-ramen/) :carrot:
 - [Sorbet Melon Mangue Banane](https://www.100-vegetal.com/2016/07/3-recettes-fraiches-et-fruitees.html) :carrot:
-- [Yahourts glacés](https://www.youtube.com/watch?v=LEnr6h37e6Q) :carrot:
 - [Tarte aux pèches et citron vert](https://www.papillesetpupilles.fr/2018/07/tarte-aux-peches-citron-vert-et-romarin-yotam-ottolenghi.html/) :carrot:
 - [Recette de pâte selon je pense donc je cuis](https://jepensedoncjecuis.com/2022/10/une-pate-a-tarte-rapide-et-vraiment-bonne.html)
 - [Colcannon, purée irlandaise](https://www.papillesetpupilles.fr/2010/10/colcannon-puree-irlandaise.html/) :carrot:
