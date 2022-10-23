@@ -104,7 +104,7 @@
 - [Tarte aux pèches et citron vert](https://www.papillesetpupilles.fr/2018/07/tarte-aux-peches-citron-vert-et-romarin-yotam-ottolenghi.html/) :carrot:
 - [Recette de pâte selon je pense donc je cuis](https://jepensedoncjecuis.com/2022/10/une-pate-a-tarte-rapide-et-vraiment-bonne.html) :carrot:
 - [Colcannon, purée irlandaise](https://www.papillesetpupilles.fr/2010/10/colcannon-puree-irlandaise.html/) :carrot:
-- [Foccacia à la citrouille et au bleu d'auvergneg](https://www.youtube.com/watch?v=G4GdGW7Cik4) :carrot:
+- [Foccacia à la citrouille et au bleu d'auvergne](https://www.youtube.com/watch?v=G4GdGW7Cik4) :carrot:
 - [Tarte à l'ail](https://www.youtube.com/watch?v=cW5uIvoZPrg) :carrot:
 
 ## Guides
