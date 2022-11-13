@@ -41,6 +41,7 @@
 - [Nems végétariens](https://www.cuisineaz.com/recettes/nems-vegetariens-101320.aspx) :carrot: *Remplacer la protéine de soja par du tofu fumé et préférer du gimgembre en racine plutôt qu'en poudre
 - [Oeufs mayonnaise - la recette de Gwilherm de Cerval](https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/06/l-uf-mayonnaise-la-recette-de-gwilherm-de-cerval_6032062_5324493.html) :carrot:
 - [Pana cotta tomates et basilic](https://piao.fr/2020/07/une-recette-coloree-et-fraiche-pour-lete-panna-cotta-tomates-basilic/) :carrot:
+- [Pâte à tarte/quiche selon je pense donc je cuis](https://jepensedoncjecuis.com/2022/10/une-pate-a-tarte-rapide-et-vraiment-bonne.html) :carrot:
 - [Pâtes aux champignons et aux poireaux](https://youtu.be/H6r65SHkpVs?t=507) 🥕 :gb:
 - [Pâtes au citron](https://prettysimplesweet.com/lemon-cilantro-pasta/) :carrot: :gb:
 - [Pâtes au saumon](https://youtu.be/z8Yrwb-05Uc)
@@ -105,7 +106,6 @@
 - [Tamago](https://ohmonbento.com/ajitsuke-tamago-les-oeufs-pour-ramen/) :carrot:
 - [Sorbet Melon Mangue Banane](https://www.100-vegetal.com/2016/07/3-recettes-fraiches-et-fruitees.html) :carrot:
 - [Tarte aux pèches et citron vert](https://www.papillesetpupilles.fr/2018/07/tarte-aux-peches-citron-vert-et-romarin-yotam-ottolenghi.html/) :carrot:
-- [Recette de pâte selon je pense donc je cuis](https://jepensedoncjecuis.com/2022/10/une-pate-a-tarte-rapide-et-vraiment-bonne.html) :carrot:
 - [Colcannon, purée irlandaise](https://www.papillesetpupilles.fr/2010/10/colcannon-puree-irlandaise.html/) :carrot:
 - [Foccacia à la citrouille et au bleu d'auvergne](https://www.youtube.com/watch?v=G4GdGW7Cik4) :carrot:
 - [Tarte à l'ail](https://www.youtube.com/watch?v=cW5uIvoZPrg) :carrot:
