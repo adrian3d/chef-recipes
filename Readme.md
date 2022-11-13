@@ -14,6 +14,7 @@
 - [Aubergines sucrée-salée rôties au sirop d’érable et graines de sésame](https://madame.lefigaro.fr/recettes/aubergines-roties-au-sirop-derable-guacamole-sesame-181218-162669) :carrot:
 - [Bagel saumon et avocat](https://plaisiretequilibre.wordpress.com/2015/03/04/bagels-saumon-fume-avocat-et-sauce-ciboulette-bataille-food-21/)
 - [Blanquette végétarienne](https://www.youtube.com/watch?v=gMnfNY_9kiw) :carrot:
+- [Brick à l'ossau iraty et à la cerise](https://www.marieclaire.fr/cuisine/bricks-facon-pays-basque,1196852.asp) :carrot:
 - [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/) :carrot:
 - [Cake salé à l'ail des ours](https://www.lacuisinedebernard.com/2021/04/cake-sale-a-lail-des-ours.html)
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
@@ -35,6 +36,7 @@
 - [Lasagnes végétariennes](https://twitter.com/EvpokPadding/status/1142034982359228423) :carrot:
 - [La meilleure bolognaise du monde - Primée au quebec par le journal du soleil](http://marieestdanssonassiette.blogspot.com/2013/08/sauce-bolognaise-primee-la-meilleure-au.html)
 - [Lentilles aux noisettes et au celeri](https://www.marmiton.org/recettes/recette_creme-de-lentilles-celeri-et-noisettes_530103.aspx) :carrot:
+- [Madeleines salées au chavignol et tomates séchées](https://www.750g.com/madeleines-salees-au-crottin-de-chavignol-tomates-sechees-et-thym-r201215.htm)
 - [Mafé](https://www.youtube.com/watch?v=9uDte-pIZ48)
 - [Nems végétariens](https://www.cuisineaz.com/recettes/nems-vegetariens-101320.aspx) :carrot: *Remplacer la protéine de soja par du tofu fumé et préférer du gimgembre en racine plutôt qu'en poudre
 - [Oeufs mayonnaise - la recette de Gwilherm de Cerval](https://www.lemonde.fr/les-recettes-du-monde/article/2020/03/06/l-uf-mayonnaise-la-recette-de-gwilherm-de-cerval_6032062_5324493.html) :carrot:
@@ -59,6 +61,7 @@
 - [Soupe aux poireaux et à l'ail](http://www.lesfoodies.com/val53/recette/soupe-tomates-poireaux-a-lail) :carrot:
 - [Tagliatelles au pesto de poivron rouge](https://fr.chatelaine.com/recettes/pates-2/tagliatelles-au-pesto-de-poivron-rouge/) :carrot:
 - [Tartare saumon avocat mangue et tuile au parmesan](https://cuisine.journaldesfemmes.fr/recette/356652-tartare-saumon-avocat-mangue-et-tuile-au-parmesan) :carrot:
+- [Tarte fine aux cèpes](https://www.marieclaire.fr/cuisine/tartes-fines-aux-cepes,1210879.asp) :carrot:
 - [Tarte à la rhubarbe et au fromage](https://chicfrigosansfric.com/recettes/cuisiner-rhubarbe-autrement) :carrot:
 - [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto) :carrot:
 - [Tzatziki](https://www.papillesetpupilles.fr/2020/06/le-tzatziki-de-cyril-lignac.html/) :carrot:
