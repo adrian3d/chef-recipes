@@ -63,6 +63,7 @@
 - [Soupe aux poireaux et à l'ail](http://www.lesfoodies.com/val53/recette/soupe-tomates-poireaux-a-lail) :carrot:
 - [Tagliatelles au pesto de poivron rouge](https://fr.chatelaine.com/recettes/pates-2/tagliatelles-au-pesto-de-poivron-rouge/) :carrot:
 - [Tartare saumon avocat mangue et tuile au parmesan](https://cuisine.journaldesfemmes.fr/recette/356652-tartare-saumon-avocat-mangue-et-tuile-au-parmesan) :carrot:
+- [Tarte à l'ail](https://www.youtube.com/watch?v=cW5uIvoZPrg) :carrot:
 - [Tarte fine aux cèpes](https://www.marieclaire.fr/cuisine/tartes-fines-aux-cepes,1210879.asp) :carrot:
 - [Tarte à la rhubarbe et au fromage](https://chicfrigosansfric.com/recettes/cuisiner-rhubarbe-autrement) :carrot:
 - [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto) :carrot:
@@ -109,7 +110,6 @@
 - [Tarte aux pèches et citron vert](https://www.papillesetpupilles.fr/2018/07/tarte-aux-peches-citron-vert-et-romarin-yotam-ottolenghi.html/) :carrot:
 - [Colcannon, purée irlandaise](https://www.papillesetpupilles.fr/2010/10/colcannon-puree-irlandaise.html/) :carrot:
 - [Foccacia à la citrouille et au bleu d'auvergne](https://www.youtube.com/watch?v=G4GdGW7Cik4) :carrot:
-- [Tarte à l'ail](https://www.youtube.com/watch?v=cW5uIvoZPrg) :carrot:
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
