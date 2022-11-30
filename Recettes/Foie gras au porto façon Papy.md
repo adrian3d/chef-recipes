@@ -24,9 +24,8 @@
 -   Retirer délicatement du micro-onde et retirer du surplus de gras. (Vous pouvez le conserver pour faire des pommes de terre sarladaises).
 -   Mettre les poids sur la terrine afin de tasser et faire sortir le gras.
 -   Attendre environ une demi-heure.
--   Mettre au frigo.
+-   Mettre au frigo avec un poids dessus histoire qu'il se tasse bien.
 -   Manger au bout de 3-4 jours histoire de faire vieillir un peu.
-- 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMjY0NzA3Mjc3XX0=
