@@ -26,6 +26,7 @@
 - [Feuilleté chèvre épinards](https://youtu.be/Uz4iZm4nDPE) :carrot:
 - [Feuilleté chèvre figues](https://www.mangoandsalt.com/2019/09/19/feuilletes-chevre-affine-figue-fraiche-miel-de-foret/) :carrot:
 - [Filets mignons de porc au fond de veau](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Filets%20mignon%20de%20porc.md)
+- [Flan au butternut](https://www.cuisineaz.com/recettes/flan-de-courge-butternut-aux-epices-78055.aspx) :carrot:
 - [Galettes de courge spaghetti](https://www.ptitchef.com/recettes/entree/galettes-de-courge-spaghetti-aux-oignons-et-fromage-fid-553177) :carrot
 - [Galette de courgette ricotta et coriandre fraîche](https://www.lacuisinedujardin.com/recette/galettes-de-courgette-ricotta-et-coriandre-fraiche) :carrot:
 - [Galette de patate douce](https://thehappypear.ie/recipes/sweet-potato-fritter/) :carrot: :gb:
