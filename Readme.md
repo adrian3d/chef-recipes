@@ -58,6 +58,8 @@
 - [Raviolis aux cèpes](https://www.cuisineactuelle.fr/recettes/raviolis-aux-cepes-sauce-foie-gras-198907)
 - [Raviolis chèvre épinards ricotta](https://cahierdegourmandises.fr/raviolis-epinards-ricotta/) :carrot:
 - [Risotto d'épeautre aux légumes anciens](https://www.cuisineaz.com/recettes/risotto-d-epeautre-aux-legumes-anciens-et-noisettes-95563.aspx) :carrot:
+- [Salade à 7 étages](https://www.marmiton.org/recettes/recette_salade-a-8-etages_50352.aspx)
+- [Salade de pois chiches à l'orientale](https://www.papillesetpupilles.fr/2019/06/salade-de-pois-chiches-a-lorientale.html/) :carrot:
 - [Spaghetti aglio et olio](https://www.mesinspirationsculinaires.com/article-spaghetti-aglio-e-olio-pates-a-lail-et-huile-dolive.html) :carrot:
 - [Soupe à la tomate](https://www.youtube.com/watch?v=7BOOIqW9BQ4) :gb: :carrot:
 - [Soupe aux poireaux et à l'ail](http://www.lesfoodies.com/val53/recette/soupe-tomates-poireaux-a-lail) :carrot:
@@ -67,6 +69,7 @@
 - [Tarte fine aux cèpes](https://www.marieclaire.fr/cuisine/tartes-fines-aux-cepes,1210879.asp) :carrot:
 - [Tarte à la rhubarbe et au fromage](https://chicfrigosansfric.com/recettes/cuisiner-rhubarbe-autrement) :carrot:
 - [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto) :carrot:
+- [Tiramisu à la pistache](https://www.cestmafournee.com/2023/03/le-tiramisu-la-pistache.html?m=1):carrot:
 - [Tzatziki](https://www.papillesetpupilles.fr/2020/06/le-tzatziki-de-cyril-lignac.html/) :carrot:
 
 ### Desserts
