@@ -16,6 +16,7 @@
 - [Blanquette végétarienne](https://www.youtube.com/watch?v=gMnfNY_9kiw) :carrot:
 - [Brick à l'ossau iraty et à la cerise](https://www.marieclaire.fr/cuisine/bricks-facon-pays-basque,1196852.asp) :carrot:
 - [Burger Big Fernand](https://www.mangoandsalt.com/2015/11/06/portobello-burger-gourmet-vegetarien/) :carrot:
+- [Buns à bagels](https://youtu.be/YVf7ANK_fjU) :carrot:
 - [Cake salé à l'ail des ours](https://www.lacuisinedebernard.com/2021/04/cake-sale-a-lail-des-ours.html)
 - [Cari de champignons](https://saveursetexperiences.blogspot.com/2017/07/cari-de-champignons-frais-la-creme-de.html) :carrot:
 - [Carottes rapées, sauce Alain Passard](https://www.youtube.com/watch?v=dF0EkGoadtE) :carrot:

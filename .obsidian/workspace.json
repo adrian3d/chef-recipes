@@ -20,29 +20,7 @@
             }
           },
           {
-            "id": "df4d5720a8a6c559",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Readme.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6d273c3142fc7f4f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.15"
-              }
-            }
-          },
-          {
-            "id": "a22871cd1a143fa4",
+            "id": "546fa81d126cf76e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -101,7 +79,7 @@
             }
           },
           {
-            "id": "3be675f65820488b",
+            "id": "995da47a00f5ea2e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -189,13 +167,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a22871cd1a143fa4",
+  "active": "546fa81d126cf76e",
   "lastOpenFiles": [
+    "Readme.md",
     "Recettes/Soupe à la sucrine du Berry.md",
     "Recettes/Filets mignon de porc.md",
     "Recettes/Courge spaghetti carbonara.md",
     "Recettes/Foie gras au porto façon Papy.md",
-    "Recettes/Tartelettes fraises-citron.md",
-    "Readme.md"
+    "Recettes/Tartelettes fraises-citron.md"
   ]
 }
