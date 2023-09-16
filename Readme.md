@@ -115,6 +115,7 @@
 - [Tarte aux pèches et citron vert](https://www.papillesetpupilles.fr/2018/07/tarte-aux-peches-citron-vert-et-romarin-yotam-ottolenghi.html/) :carrot:
 - [Colcannon, purée irlandaise](https://www.papillesetpupilles.fr/2010/10/colcannon-puree-irlandaise.html/) :carrot:
 - [Foccacia à la citrouille et au bleu d'auvergne](https://www.youtube.com/watch?v=G4GdGW7Cik4) :carrot:
+- [Gnocchis au beurre de sauge](https://www.marmiton.org/recettes/recette_gnocchis-au-beurre-de-sauge_21045.aspx)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
