@@ -72,6 +72,7 @@
 - [Tarte poivrons et pesto](http://www.lesfoodies.com/titelul/recette/tarte-poivrons-pesto) :carrot:
 - [Tiramisu à la pistache](https://www.cestmafournee.com/2023/03/le-tiramisu-la-pistache.html?m=1):carrot:
 - [Tzatziki](https://www.papillesetpupilles.fr/2020/06/le-tzatziki-de-cyril-lignac.html/) :carrot:
+- [Zaalouk](https://www.papillesetpupilles.fr/2013/09/aubergines-a-la-marocaine-zaalouk.html) :carrot:
 
 ### Desserts
 - [Orangettes au chocolat](https://www.lemonde.fr/les-recettes-du-monde/article/2019/04/05/les-orangettes-au-chocolat-la-recette-facile-d-anne-xiradakis_5446261_5324493.html) :carrot:
@@ -115,6 +116,7 @@
 - [Tarte aux pèches et citron vert](https://www.papillesetpupilles.fr/2018/07/tarte-aux-peches-citron-vert-et-romarin-yotam-ottolenghi.html/) :carrot:
 - [Colcannon, purée irlandaise](https://www.papillesetpupilles.fr/2010/10/colcannon-puree-irlandaise.html/) :carrot:
 - [Foccacia à la citrouille et au bleu d'auvergne](https://www.youtube.com/watch?v=G4GdGW7Cik4) :carrot:
+- [Gnocchis au beurre de sauge](https://www.marmiton.org/recettes/recette_gnocchis-au-beurre-de-sauge_21045.aspx)
 
 ## Guides
 - [Sauvetages en cuisine](https://magazine.laruchequiditoui.fr/sauvetages-en-cuisine/)
