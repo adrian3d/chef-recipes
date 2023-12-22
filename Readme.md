@@ -78,7 +78,7 @@
 - [Orangettes au chocolat](https://www.lemonde.fr/les-recettes-du-monde/article/2019/04/05/les-orangettes-au-chocolat-la-recette-facile-d-anne-xiradakis_5446261_5324493.html) :carrot:
 - [Tartelettes fraises-citron](https://github.com/adrian3d/chef-recipes/blob/master/Recettes/Tartelettes%20fraises-citron.md) :carrot:
 - [Yahourts glacés](https://www.youtube.com/watch?v=LEnr6h37e6Q) :carrot:
-- [Petits gâteaux aux amandes (ou palets aux amandes)](https://github.com/adrian3d/chef-recipes/blob/master/Recettes%2FPetits%20g%C3%A2teaux%20aux%20amandes%20(ou%20palets%20aux%20amandes) :carrot:
+- [Petits gâteaux aux amandes (ou palets aux amandes)](https://github.com/adrian3d/chef-recipes/blob/master/Recettes%2FPetits%20g%C3%A2teaux%20aux%20amandes%20(ou%20palets%20aux%20amandes)) :carrot:
 
 ## À faire
 - [Repas italien](https://www.youtube.com/watch?v=l5F9WfVRluM)
